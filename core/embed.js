@@ -2,7 +2,7 @@
 
 // If gliEmbedDebug == true, split files will be used, otherwise the cat'ed scripts will be inserted
 
-(function () {
+bootWebGLInspector = function () {
 
     var pathRoot = "";
 
@@ -122,4 +122,4 @@
         return result;
     };
 
-})();
+};//)();
