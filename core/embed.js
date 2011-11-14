@@ -2,8 +2,8 @@
 
 // If gliEmbedDebug == true, split files will be used, otherwise the cat'ed scripts will be inserted
 
-bootWebGLInspector = function () {
-    console.log("Booting WebGL Inspector");
+(function () {
+
     var pathRoot = "";
 
     var useDebug = window["gliEmbedDebug"];
@@ -17,7 +17,6 @@ bootWebGLInspector = function () {
             // Found ourself - strip our name and set the root
             var index = src.lastIndexOf("embed.js");
             pathRoot = scriptTag.src.substring(0, index);
-            console.log("Found GLI in script tags.");
             break;
         }
     }
@@ -123,4 +122,4 @@ bootWebGLInspector = function () {
         return result;
     };
 
-};//)();
+})();
