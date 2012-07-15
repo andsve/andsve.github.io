@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>{{ page.title }}</title>
+		<link rel="stylesheet" href="/static/css/frontpage.css">
+
+		<script type="text/javascript">
+			var _gaq = _gaq || [];
+			_gaq.push(['_setAccount', 'UA-24416577-1']);
+			_gaq.push(['_setDomainName', 'svenandersson.se']);
+			_gaq.push(['_setAllowHash', 'false']);
+			_gaq.push(['_trackPageview']);
+
+			(function() {
+			  var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			  ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			})();
+	  </script>
+	</head>
+	<body>
+		<nav>
+			<a href="/">About me</a>
+			<a href="/blog/" class="current">Blog</a>
+			<a href="/articles/">Articles</a>
+			<a href="/code/">Code</a>
+		</nav>
+		<div id="wrap" class="blog">
+			<div id="content">
+<ul>
+	<li>
+		<h3>{{ page.date | date: "%Y %b %d" }}</h3>
+		<h2>{{ page.title }}</h2>
+		{{ content }}
+	</li>
+</ul>
+			</div>
+		</div>
+	</body>
+</html>
