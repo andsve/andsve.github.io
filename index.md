@@ -40,7 +40,7 @@ Sven Andersson
 		1.  [SimEng03](http://code.google.com/p/simeng03/) -- Simulation/Game engine developed in a team of four, as a project in the course _TDA571 - Simulation engines_. (2009)
 		1.  [PushBox](http://md5.se/cg/pb/PushBoxWindows_noinstall.zip) ([video](http://md5.se/cg/pb/pushbox_02.ogv)) -- An unfinished action puzzle game (somewhat a cross between Tetris and Puyo Puyo), written in C# and using Microsoft XNA. (2009)
 		1.  [Project Lloyd](http://lloyd.codeplex.com/) -- Racing game developed in a group of six, written in C# and using Microsoft XNA. Project part of our bachelor thesis. (2009)
-		1.  [CropShot](http://svenandersson.se/cropshot/) -- A simple Windows utility for taking "cropped" screenshot, i.e. there is no need to crop the screenshot in an image editor afterwards. (2008)
+		1.  [CropShot](http://content.svenandersson.se/cropshot/) -- A simple Windows utility for taking "cropped" screenshot, i.e. there is no need to crop the screenshot in an image editor afterwards. (2008)
 
 * ### Social ###
 	

@@ -62,10 +62,13 @@ nav a.current {
 
 a {
     color: #118;
+    -webkit-transition:all 150ms ease-in;
+	-o-transition:all 150ms ease-in;
+	-moz-transition:all 150ms ease-in;
 }
 
 a:hover {
-    color: #11a;
+    color: #33c;
 }
 
 div#content>ul {
