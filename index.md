@@ -24,13 +24,13 @@ Sven Andersson
 
 		* [toolbox](https://bitbucket.org/andsve/toolbox/) -- Multiplatform tool creation framework. (2012)
 		* pxf.js -- Lightweight WebGL engine and JavaScript tools. (2012)
-		* fabric4 -- Tool and 2D/3D game development with lightweight Lua framework. (2012)
 		* [lurch](http://github.com/sweetfish/lurch) -- IRC bot written in Lua that uses public Git repos (i.e. GitHub Gists) as modules/plugins. (2010-2012)
+		* [luaspotify](https://github.com/sweetfish/luaspotify/) -- Lua bindings for [libspotify](https://developer.spotify.com/technologies/libspotify/). (2010-2012)
+		* fabric4 -- Tool and 2D/3D game development with lightweight Lua framework. (2012)
 
 	* **Older projects**
 
 		1.  [Virtual Texturing with WebGL](http://publications.lib.chalmers.se/publication/155126) -- Our master thesis in _Computer Science: Algorithms, Languages and Logic_. (2011 - 2012)
-		1.  [luaspotify](http://github.com/pxf/pxf-tech2) -- Lua bindings for [libspotify](https://developer.spotify.com/technologies/libspotify/). (2010-2011)
 		1.  fabric3 -- Tool and 2D game development with lightweight Lua framework. (2011)
 		1.  [pxf-tech2](http://github.com/pxf/pxf-tech2) -- Second generation of our game engine/framework. (2010-2011)
 		1.  [Lightning](http://github.com/pxf/pxf-tech2/tree/master/Projects/Lightning) -- A prototype of a Peer2Peer distributed Ray-Tracer service, created as part of the course _DAT085 - Project in computer science_. (2010-2011)
