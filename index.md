@@ -24,6 +24,7 @@ Sven Andersson
 
 		* [toolbox](https://bitbucket.org/andsve/toolbox/) -- Multiplatform tool creation framework. (2012)
 		* pxf.js -- Lightweight WebGL engine and JavaScript tools. (2012)
+		* [pushover-lua](https://github.com/sweetfish/pushover-lua) -- Simple [Pushover](https://pushover.net) API wrapper/snippet in Lua. (2012)
 		* [lurch](http://github.com/sweetfish/lurch) -- IRC bot written in Lua that uses public Git repos (i.e. GitHub Gists) as modules/plugins. (2010-2012)
 		* [luaspotify](https://github.com/sweetfish/luaspotify/) -- Lua bindings for [libspotify](https://developer.spotify.com/technologies/libspotify/). (2010-2012)
 		* fabric4 -- Tool and 2D/3D game development with lightweight Lua framework. (2012)
