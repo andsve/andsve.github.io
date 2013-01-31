@@ -3,7 +3,5 @@ layout: default
 title: wants
 curr: want
 ---
-
 # wants
-* asd
-* aoue
+* sublime text 3 - https://www.sublimetext.com/buy
