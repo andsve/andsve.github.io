@@ -7,12 +7,13 @@ Sven Andersson
 ==============
 * ### Bio ###
 
-	I'm a 26 year old Swede, currently working on top secret WebGL projects for Swedish animation studio [Meindbender](http://meindbender.com/). I like computer graphics, UI and games.
+	I'm a 26 year old Swede, currently working on top secret WebGL projects at Mindary. I like computer graphics, UI and games.
 
 	I also **love to code**. 
 
 * ### Past ###
 	
+	*  (2011 - 2013) Software developer at Swedish animation studio [Meindbender](http://meindbender.com/).
 	*  (2009 - 2011) Finished my master in _Computer Science: Algorithms, Languages and Logic_.
 	*  (2006 - 2009) _Computer Science_ at _Chalmers University of Technology_.
 
@@ -49,7 +50,7 @@ Sven Andersson
 	
 	* 
 		* [LinkedIn Profile](http://se.linkedin.com/pub/sven-andersson/24/179/66)
-		* [Dribbble profile](http://dribbble.com/andsve) <small>psst, I would love an invite! :3</small>
+		* [Dribbble profile](http://dribbble.com/andsve)
 		* [Twitter @andsve](http://twitter.com/andsve)
 		* [Photostream @ flickr](http://www.flickr.com/photos/andsve/)
 
