@@ -1,13 +1,26 @@
 /*@import url(http://fonts.googleapis.com/css?family=Lekton|Mako|Ubuntu+Mono|Gudea|Convergence|Signika|Telex|Shanti|Open+Sans|Inconsolata);*/
 /*@import url(http://fonts.googleapis.com/css?family=Homenaje);*/
-@import url(http://fonts.googleapis.com/css?family=Gudea);
+/*@import url(http://fonts.googleapis.com/css?family=Gudea);*/
+
+/*@font-face {
+    font-family: '/static/bariol/bariol_regularregular';
+    src: url('/static/bariol/bariol_regular-webfont.eot');
+    src: url('/static/bariol/bariol_regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/static/bariol/bariol_regular-webfont.woff') format('woff'),
+         url('/static/bariol/bariol_regular-webfont.ttf') format('truetype'),
+         url('/static/bariol/bariol_regular-webfont.svg#bariol_regularregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}*/
+
+@import url(/static/bariol/stylesheet.css);
 
 html {
 	background-color: #eee;
 }
 
 body {
-	font-family: 'Gudea', Helvetica, Arial, sans-serif;
+	font-family: 'bariol_regularregular', Helvetica, Arial, sans-serif;
 	color: #333;
 	width: 66%;
 	margin: 60px auto;
@@ -18,18 +31,18 @@ h3 { font-size: 1.1em; }
 h4 { font-size: 1.0em; }
 h4 { font-size: 0.9em; }
 
-/* scrollbars */
+/* scrollbars 
 ::-webkit-scrollbar {
     width: 8px;
     height: 8px;
 }
  
-/* Track */
+
 ::-webkit-scrollbar-track {
     background: #eee;
 }
  
-/* Handle */
+
 ::-webkit-scrollbar-thumb {
     border-radius: 6px;
     background: rgba(0,0,0,0.3);
@@ -37,6 +50,7 @@ h4 { font-size: 0.9em; }
 ::-webkit-scrollbar-thumb:window-inactive {
 	background: rgba(0,0,0,0.2); 
 }
+*/
 
 nav a {
 	margin: 0px 10px;

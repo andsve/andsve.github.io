@@ -7,7 +7,7 @@ Sven Andersson
 ==============
 * ### Bio ###
 
-	I'm a 26 year old Swede, currently working on top secret WebGL projects at Mindary. I like computer graphics, UI and games.
+	I'm a 26 year old Swede, currently working on top secret WebGL projects at [Mindary](http://www.mindary.se/). I like computer graphics, UI and games.
 
 	I also **love to code**. 
 
@@ -24,6 +24,7 @@ Sven Andersson
 	* **Active projects**
 
 		* [labrat](https://bitbucket.org/andsve/labrat/) -- Tool and game creation framework, combines the best parts and ideas of *toolbox* and *fabric*. (2013)
+		* [sneeze/neeze](https://bitbucket.org/andsve/sneeze/) -- NES Emulator written in C++ with a Lua VM for live debugging. (2012-2013)
 		* [toolbox](https://bitbucket.org/andsve/toolbox/) -- Multiplatform tool creation framework. (2012-2013)
 		* pxf.js -- Lightweight WebGL engine and JavaScript tools. (2012-2013)
 		* [pushover-lua](https://github.com/sweetfish/pushover-lua) -- Simple [Pushover](https://pushover.net) API wrapper/snippet in Lua. (2012-2013)
@@ -48,11 +49,13 @@ Sven Andersson
 
 * ### Social ###
 	
-	* 
-		* [LinkedIn Profile](http://se.linkedin.com/pub/sven-andersson/24/179/66)
-		* [Dribbble profile](http://dribbble.com/andsve)
-		* [Twitter @andsve](http://twitter.com/andsve)
-		* [Photostream @ flickr](http://www.flickr.com/photos/andsve/)
+	<ul>
+		<li><i class="icon-linkedin-sign"></i> [Sven Andersson](http://se.linkedin.com/pub/sven-andersson/24/179/66)</li>
+		<li><i class="icon-dribble"></i> [@andsve](http://dribbble.com/andsve)</li>
+		<li><i class="icon-twitter"></i> [@andsve](http://twitter.com/andsve)</li>
+		<li><i class="icon-instagram"></i> [@andsve](http://instagram.com/andsve)</li>
+		<li><i class="icon-flickr"></i> [andsve](http://www.flickr.com/photos/andsve/)</li>
+	</ul>
 
 * ### Contact ###
 	

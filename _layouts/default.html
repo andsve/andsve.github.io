@@ -3,6 +3,7 @@
 	<head>
 		<title>{{ page.title }}</title>
 		<link rel="stylesheet" href="/static/css/frontpage.css">
+		<link href="//netdna.bootstrapcdn.com/font-awesome/3.2.0/css/font-awesome.css" rel="stylesheet">
 
 		<script type="text/javascript">
 			var _gaq = _gaq || [];
@@ -21,7 +22,6 @@
 	<body>
 		<nav>
 			<a href="/"{% if page.curr == "aboutme" %} class="current" {% endif %}>About me</a>
-			<a href="/blog/"{% if page.curr == "blog" %} class="current" {% endif %}>Blog</a>
 			<a href="/articles/"{% if page.curr == "articles" %} class="current" {% endif %}>Articles</a>
 			<a href="/code/"{% if page.curr == "code" %} class="current" {% endif %}>Code</a>
 		</nav>
