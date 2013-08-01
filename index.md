@@ -7,7 +7,7 @@ Sven Andersson
 ==============
 * ### Bio ###
 
-	I'm a 26 year old Swede, currently working on top secret WebGL projects at [Mindary](http://www.mindary.se/). I like computer graphics, UI and games.
+	I'm a 27 year old Swede, currently working on top secret WebGL projects at [Mindary](http://www.mindary.se/). I like computer graphics, UI and games.
 
 	I also **love to code**. 
 
