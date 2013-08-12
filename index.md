@@ -23,6 +23,7 @@ Sven Andersson
 
 	* **Active projects**
 
+		* [Panflute Hero](http://wowhack.challengepost.com/submissions/16385-panflute-hero) -- Our entry for [Way Out West Hackathon 2013](http://wowhack.challengepost.com/), custom built electronic pan flute hardware and game using Spotify. (2013)
 		* [labrat](https://bitbucket.org/andsve/labrat/) -- Tool and game creation framework, combines the best parts and ideas of *toolbox* and *fabric*. (2013)
 		* [sneeze/neeze](https://bitbucket.org/andsve/sneeze/) -- NES Emulator written in C++ with a Lua VM for live debugging. (2012-2013)
 		* [toolbox](https://bitbucket.org/andsve/toolbox/) -- Multiplatform tool creation framework. (2012-2013)
