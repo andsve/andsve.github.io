@@ -7,7 +7,7 @@ Sven Andersson
 ==============
 * ### Bio ###
 
-	Computer Science graduate specializing in graphics programming and realtime rendering, with interests in design and user interfaces. Developing games, tools and fun stuff on the free time.
+	Computer Science graduate specializing in graphics programming and realtime rendering, with interests in design and user interfaces. Developing games, tools and fun stuff in the free time.
 
 	* tel.: +46 (0)73 680 86 29
 	* email: contact@svenandersson.se
@@ -42,7 +42,7 @@ Sven Andersson
 
 * ### Future ###
 	
-	I will always want to work with cutting edge technology, making visions come to life. I see myself in a Senior Developer role within 3 years, in the domain of realtime visualisation. Within 5 years I want to be the person responsible for pushing the rest of the team forward, probably as a team lead or product owner.
+	I will always want to work with cutting edge technology, making visions come to life. I see myself in a Senior Developer role within 3 years, in the domain of realtime visualization. Within 5 years I want to be the person responsible for pushing the rest of the team forward, probably as a team lead or product owner.
 
 * ### Technical ###
 	* **Languages:** C, C++, Lua, JavaScript, GLSL, Python, Ruby, HTML+CSS, LaTeX
