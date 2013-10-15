@@ -1,0 +1,188 @@
+/*@import url(http://fonts.googleapis.com/css?family=Lekton|Mako|Ubuntu+Mono|Gudea|Convergence|Signika|Telex|Shanti|Open+Sans|Inconsolata);*/
+/*@import url(http://fonts.googleapis.com/css?family=Homenaje);*/
+/*@import url(http://fonts.googleapis.com/css?family=Gudea);*/
+
+/*@font-face {
+    font-family: '/static/bariol/bariol_regularregular';
+    src: url('/static/bariol/bariol_regular-webfont.eot');
+    src: url('/static/bariol/bariol_regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/static/bariol/bariol_regular-webfont.woff') format('woff'),
+         url('/static/bariol/bariol_regular-webfont.ttf') format('truetype'),
+         url('/static/bariol/bariol_regular-webfont.svg#bariol_regularregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}*/
+
+@import url(/static/bariol/stylesheet.css);
+
+html {
+	background-color: #efefef;
+}
+
+body {
+	font-family: 'bariol_regularregular', Helvetica, Arial, sans-serif;
+	color: #333;
+	width: 21cm;
+	margin: 1cm auto;
+    font-size: 0.36cm;
+}
+h1 { margin-left: 1cm; font-size: 2.7em; }
+h2 { font-size: 1.1em; }
+h3 { font-size: 1.1em; line-height: 1em; }
+h4 { font-size: 1.0em; }
+h4 { font-size: 0.9em; }
+
+strong { font-weight: normal; font-family: 'bariol_boldbold'; }
+
+/* scrollbars 
+::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+}
+ 
+
+::-webkit-scrollbar-track {
+    background: #eee;
+}
+ 
+
+::-webkit-scrollbar-thumb {
+    border-radius: 6px;
+    background: rgba(0,0,0,0.3);
+}
+::-webkit-scrollbar-thumb:window-inactive {
+	background: rgba(0,0,0,0.2); 
+}
+*/
+
+#cmlegend {
+    background: #f00;
+    width: 1cm;
+    height: 1cm;
+}
+
+#wrap {
+    min-height: 29.7cm;
+	padding: 1.50cm;
+	background-color: #fff;
+	border-radius: 3px;
+}
+
+#content {
+    
+}
+
+a {
+    color: #118;
+    text-decoration: none;
+    -webkit-transition:all 150ms ease-in;
+	-o-transition:all 150ms ease-in;
+	-moz-transition:all 150ms ease-in;
+}
+
+a:hover {
+    color: #33c;
+}
+
+div#content>ul {
+	margin: 0px 0px 0px 2cm;
+}
+
+ul, ol {
+    list-style: none;
+}
+
+ul>li {
+    margin: 50px 0px;
+    padding: 0;
+}
+
+ul ul>li, ul ul, ul ol {
+	margin: 0;
+	padding: 0;
+}
+
+ul ul ul, ul ul ol {
+	list-style: circle;
+	margin: 0px 50px;
+}
+
+ul ul ul>li, ul ul ol>li {
+    margin: 10px 0px;
+}
+
+h3 {
+    text-transform: lowercase;
+    position: relative;
+    left: -80px;
+    margin: 0px -50px;
+    width: 100px;
+    float: left;
+    text-align: right;
+    color: #777;
+}
+
+ul ol {
+    color: #888;
+}
+
+ul ol a {
+    color: #666;
+}
+
+/* section specifics */
+
+#wrap.blog #content>ul>li {
+	
+}
+
+#social {
+    width: 100%;
+    height: 100%;
+    display: table;
+    position: relative;
+}
+
+#social>li {
+    display: inline-block;
+    /*position: absolute;*/
+    padding: 0;
+    margin: 0;
+    top: 0;
+    width: 33%;
+    height: 100%;
+}
+
+/*
+#social>li#lefty
+{
+    left: 0%;
+}
+
+#social>li#middly
+{
+    left: 32%;
+}
+
+#social>li#righty
+{
+    left: 64%;
+}*/
+
+#social>li>ul {
+    display: table;
+    height: 100%;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+#social>li a>i {
+    vertical-align: middle;
+    font-size: 2em;
+}
+
+#social>li a {
+    vertical-align: middle;
+}
+
