@@ -7,7 +7,7 @@ Sven Andersson
 ==============
 * ### Bio ###
 
-	Computer Science graduate specializing in graphics programming and realtime rendering, with interests in design and user interfaces. Developing games, tools and fun stuff in the free time.
+	I'm a dedicated professional with a Master's degree in _Computer Science: Algorithms, Languages and Logic_. Specializing in graphics programming and realtime rendering, with interests in design and user interfaces. Developing games, tools and fun stuff in my free time.
 
 	* tel.: +46 (0)73 680 86 29
 	* email: contact@svenandersson.se
@@ -16,13 +16,15 @@ Sven Andersson
 	*  2013 -- **Software Developer** at Visualization R&D company [Mindary](http://www.mindary.se/).
 		
 		* Co-founder together with a collection of smart people, backed by Meindbender AB and GU Holding.
-		* Part of a three person team developing a custom WebGL 3D engine utilizing megatextures and realtime raytraced reflections in the webbrowser.
+		* Part of a three person team developing a custom WebGL 3D engine utilizing Virtual Texturing and realtime raytraced reflections in the webbrowser.
 		* Designing and implementing the pre-process pipeline for the engine with custom built tools written in C++ and supported with Lua scripting.
 
 	*  2011 - 2013 -- **Software Developer** at Swedish animation studio [Meindbender](http://www.meindbender.com/).
 
 		* Continued work on WebGL engine that was conceived during master degree project.
 		* Setup and management of render farm.
+
+	*Previous employment and work references on request.*
 
 	* **Consulting**
 		* Burt Corp -- 2012, 1 Week - Graphical Interface tweaking and feedback.
@@ -32,13 +34,14 @@ Sven Andersson
 		* Sample of personal projects: 2D game and tool C++ framework scriptable in Lua, NES Emulator in C++, modular IRC bot written in Lua.
 		* Hackathons: Way Out West Hack 2013 & 2012, Global Game Jam 2012, 2011 & 2010, Ludum Dare 2012.
 
+
 * ### Education ###
 	
 	*  2009 - 2011 -- _Chalmers University of Technology_
-		* Master in _Computer Science: Algorithms, Languages and Logic_.
+		* Master's degree in _Computer Science: Algorithms, Languages and Logic_.
 		* Thesis [Virtual Texturing with WebGL](http://publications.lib.chalmers.se/records/fulltext/155126.pdf‎).
 	*  2006 - 2009 -- _Chalmers University of Technology_
-		* Bachelor in _Computer Science_
+		* Bachelor's degree in _Computer Science_
 
 * ### Future ###
 	
@@ -47,9 +50,9 @@ Sven Andersson
 * ### Technical ###
 	* **Languages:** C, C++, Lua, JavaScript, GLSL, Python, Ruby, HTML+CSS, LaTeX
 	* **Technologies:** OpenGL, WebGL, sockets, WebSockets, multithreading, concurrency, wxWidgets
-	* **Software:** Git, Mercurial, Subversion, Visual Studio, Windows, Linux, OS X, Photoshop, JIRA Agile, Bam
+	* **Software:** Git, Mercurial, Subversion, Visual Studio, Windows, Linux, OS X, Maya, Photoshop, JIRA Agile
 
-	I enjoy, and have ease of, learning new technologies and languages.
+	I enjoy, and have ease of, learning new technologies and languages. For further information in regards to my previous work or technical qualifications, please browse my BitBucket account.
 
 * ### Social ###
 	<ul id="social">
