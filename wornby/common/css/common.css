@@ -1,0 +1,180 @@
+.startup_info {
+	-webkit-transition:opacity 0.2s linear;
+	opacity:0.0;
+	background-color:rgba(0,0,0, 0.4);
+	position:fixed;
+	left:0px;
+	top:0px;
+	right:0px;
+	font-family:HelveticaNeue-Light;
+	
+}
+
+
+.startup_info .panel {
+	-webkit-transition:-webkit-transform 0.2s linear;
+	position:absolute;
+	-webkit-transform:scale(0.3);
+	
+}
+
+.startup_info .panel .title {
+	background-color:rgba(0,0,0, 0.5);
+	color:#ffffff;
+	font-family:HelveticaNeue-UltraLight;
+	text-align:center;
+	-webkit-border-radius:2px;
+}
+
+
+.startup_info .panel .content {
+	background-color:rgba(255,255,255, 0.9);
+}
+
+.startup_info .panel .content .scroller {
+	overflow-x:hidden;
+	overflow-y:scroll;
+	-webkit-overflow-scrolling:touch;
+}
+
+
+.startup_info .panel .content .scroller .infocontent p.source {
+	color:#880000;
+}
+
+.startup_info .panel .content .scroller .infocontent .bold {
+	font-family:HelveticaNeue;
+	font-weight:bold;
+}
+
+.startup_info .panel .content .separator {
+	margin-bottom:3px;
+	margin-top:3px;
+	margin-left:5px;
+	margin-right:5px;
+	border-bottom:1px rgba(0,0,0, 0.3) dotted;
+}
+
+
+.startup_info.visible {
+	opacity:1.0;
+}
+
+.startup_info.visible .panel {
+	-webkit-transform:scale(1.0);
+	
+}
+
+.startup_info .panel .content .okbutton {
+	font-family:HelveticaNeue-Light;	
+	background-image: -webkit-gradient(linear, left top, left bottom,
+		from(rgba(16, 16, 16, 0.7)), 
+		to(rgba(0,0,0, 0.7)));
+	color:#ffffff;
+	text-align:center;
+}
+
+.startup_info .panel .okbutton:active {
+	background-color:rgba(0,0, 128, 0.7);
+}
+
+
+
+/* iPhone 4 */
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
+	
+	.startup_info {
+		height:460px;
+	}
+	
+	.startup_info .panel {
+		top:80px;
+		left:10px;
+		right:10px;
+	}
+	
+	.startup_info .panel .title {
+		font-size:22px;
+		padding:5px 10px 5px 10px;
+		-webkit-border-radius:2px;
+	}
+
+	.startup_info .panel .content {
+		margin-top:2px;
+		-webkit-border-radius:2px;
+		padding-bottom:1px;
+	}
+	
+	.startup_info .panel .content .scroller {
+		height:170px;
+		padding:10px 10px;
+	}
+	
+	.startup_info .panel .content .scroller .infocontent {
+		min-height:171px;
+		font-size:14px;
+	}
+	
+	.startup_info .panel .content .scroller .infocontent p {
+		margin-top:0px;
+		margin-bottom:8px;
+	}
+	
+	.startup_info .panel .content .okbutton {
+		width:100px;
+		font-size:16px;
+		margin:10px auto 10px auto;
+		padding:10px 0px 10px 0px;
+		-webkit-border-radius:2px;
+	}
+}
+
+
+/* iPad */
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
+
+	.startup_info {
+		height:1004px;
+	}
+	
+	.startup_info .panel {
+		top:180px;
+		left:60px;
+		right:60px;
+	}
+	
+	.startup_info .panel .title {
+		font-size:36px;
+		padding:10px 20px 10px 20px;
+		-webkit-border-radius:2px;
+	}
+	
+	.startup_info .panel .content {
+		margin-top:4px;
+		-webkit-border-radius:2px;
+		padding-bottom:2px;
+	}
+	
+	.startup_info .panel .content .scroller {
+		height:390px;
+		padding:30px 30px;
+	}
+	
+	.startup_info .panel .content .scroller .infocontent {
+		min-height:391px;
+		font-size:18px;
+	}
+	
+	.startup_info .panel .content .scroller .infocontent p {
+		margin-top:0px;
+		margin-bottom:16px;
+	}
+	
+	.startup_info .panel .content .okbutton {
+		width:200px;
+		font-size:24px;
+		margin:20px auto 20px auto;
+		padding:20px 0px 20px 0px;
+		-webkit-border-radius:2px;
+	}
+}
