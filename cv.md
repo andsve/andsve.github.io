@@ -31,8 +31,18 @@ Sven Andersson
 		* Agency9 -- 2012, 2 Weeks - Developing a WebGL related prototype.
 
 	* **Miscellaneous**
-		* Sample of personal projects: 2D game and tool C++ framework scriptable in Lua, NES Emulator in C++, modular IRC bot written in Lua.
-		* Hackathons: Way Out West Hack 2013 & 2012, Global Game Jam 2012, 2011 & 2010, Ludum Dare 2012.
+		* Sample of personal projects
+			* 2D game and tool C++ framework scriptable in Lua
+			* Blog aware static site generator
+			* NES Emulator in C++
+			* Modular IRC bot written in Lua.
+		* Hackathons:
+			* Way Out West Hack 2013
+			* Way Out West Hack 2012
+			* Global Game Jam 2012
+			* Global Game Jam 2011
+			* Global Game Jam 2010
+			* Ludum Dare 2012
 
 
 * ### Education ###
