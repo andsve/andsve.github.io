@@ -2,7 +2,9 @@
 <html>
 	<head>
 		<title>{{ page.title }}</title>
-		<link rel="stylesheet" href="/static/css/frontpage.css">
+		<link rel="stylesheet" href="/static/css/default.css">
+		<link rel="stylesheet" href="/static/css/syntax.css">
+		<link href="//netdna.bootstrapcdn.com/font-awesome/3.2.0/css/font-awesome.css" rel="stylesheet">
 
 		<script type="text/javascript">
 			var _gaq = _gaq || [];
@@ -17,23 +19,34 @@
 			  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 			})();
 	  </script>
+	  <script src="/static/js/zepto.min.js"></script>
+	  <script src="/static/js/default.js"></script>
 	</head>
 	<body>
-		<nav>
-			<a href="/">About me</a>
-			<a href="/blog/" class="current">Blog</a>
-			<a href="/articles/">Articles</a>
-			<a href="/code/">Code</a>
-		</nav>
+		<header>		
+			<nav>
+				<a href="/">About me</a>
+				<a href="/articles/">Articles</a>
+				<a href="/code/">Code</a>
+			</nav>
+			<div id="social">
+				<a href="http://twitter.com/andsve"><i class="icon-twitter-sign"> </i></a>
+				<a href="http://linkedin.com/in/andsve"><i class="icon-linkedin-sign"> </i></a>
+				<a href="http://dribbble.com/andsve"><i class="icon-dribble"> </i></a>
+				<a href="http://bitbucket.org/andsve"><i class="icon-bitbucket"> </i></a>
+				<a href="http://github.com/andsve"><i class="icon-github"> </i></a>
+			</div>
+		</header>
 		<div id="wrap" class="blog">
 			<div id="content">
-<ul>
-	<li>
-		<h3>{{ page.date | date: "%Y %b %d" }}</h3>
-		<h2>{{ page.title }}</h2>
+		<h2 class="posttitle" style="background-image: url({{ page.image }});">{{ page.title }}</h2>
+		{% if page.updated %}
+		<h3 class="postdate">orginally written {{ page.date | date: "%Y %b %d" }}, updated {{ page.updated | date: "%Y %b %d" }}</h3>
+		{% else %}
+		<h3 class="postdate">written {{ page.date | date: "%Y %b %d" }}</h3>
+		{% endif %}
 		{{ content }}
-	</li>
-</ul>
+
 			</div>
 		</div>
 	</body>

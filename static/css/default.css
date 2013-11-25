@@ -1,0 +1,152 @@
+
+@import url(/static/bariol/stylesheet.css);
+@import url(/static/saxmono/stylesheet.css);
+
+html {
+	background-color: #eee;
+}
+
+body {
+	font-family: 'bariol_regularregular', Helvetica, Arial, sans-serif;
+	color: #222;
+	width: 800px;
+	margin: 60px auto;
+    font-size: 18px;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+}
+h1 { margin: 0px 100px; font-size: 4.236em; }
+h2 { font-size: 2.618em; margin-top: 40px; line-height: 1.0em; }
+h3 { font-size: 1.618em; margin: 0 100px 0 100px; line-height: 1.0em; }
+h4 { font-size: 1.4em; }
+h4 { font-size: 0.9em; }
+
+strong { font-weight: normal; font-family: 'bariol_boldbold'; }
+
+header {
+    display: table;
+    width: 100%;
+}
+
+header>nav, header>div {
+    display: table-cell;
+}
+
+nav>a {
+	margin: 0px 10px;
+	text-decoration: none;
+	font-size: 0.9em;
+	color: #000;
+}
+
+nav a.current {
+	font-family: 'bariol_boldbold';
+}
+
+#social {
+    text-align: right;
+}
+
+#social>a {
+    margin: 0px 5px 0px 0px;
+    text-decoration: none;
+    font-size: 1.0em;
+}
+
+#wrap {
+    position: relative;
+	margin: 20px 0px 20px 0px;
+	background-color: #fff;
+	border-radius: 3px;
+	border: solid 1px #ddd;
+    padding: 100px 0px;
+}
+
+#content {
+	padding: 0px 0px;
+}
+
+p, h1, h2, h3, h4 {
+    padding: 20px 100px;
+    margin: 0px;
+    font-family: 'bariol_lightlight';
+}
+
+p {
+    font-size: 1em;
+    line-height: 1.618em;
+    font-family: 'bariol_regularregular';
+    padding: 0px 100px 0px 100px;
+    word-break: break-all;
+    /* Non standard for webkit */
+    word-break: break-word;
+    -webkit-hyphens: auto;
+    -moz-hyphens: auto;
+    -ms-hyphens: auto;
+    hyphens: auto;
+}
+
+p+p {
+    text-indent: 2em;
+}
+
+h2.posttitle {
+    padding: 0px 100px 0px 100px;
+}
+
+h3.postdate {
+    font-size: 1.0em;
+    color: #999;
+    padding: 10px 100px 100px 100px;
+    transition: all 1s ease-in;
+}
+
+a {
+    color: #118;
+    transition: all 150ms ease-in;
+}
+
+a:hover {
+    color: #33c;
+}
+
+code {
+    border-left: solid 10px #e0e0e0;
+    display: block;
+    margin: 20px 0px;
+    padding: 2px 100px 2px 90px;
+    font-size: 0.9em;
+    background-color: #f5f5f5;
+    font-family: 'saxmonoregular', monospaced;
+}
+
+blockquote {
+    display: block;
+    margin: 20px 0px;
+    padding: 2px 100px 2px 100px;
+    font-size: 0.9em;
+    background-color: #f5f5f5;
+    font-style: italic;
+}
+
+blockquote>p {
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+}
+
+body.read_mode {
+    
+}
+
+body.read_mode h3.postdate
+{
+    color: #fff;
+}
+
+body.read_mode p
+{
+    
+}
+
+

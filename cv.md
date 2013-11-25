@@ -38,6 +38,7 @@ Sven Andersson
 			* Modular IRC bot written in Lua.
 		* Hackathons:
 			* Way Out West Hack 2013
+				
 			* Way Out West Hack 2012
 			* Global Game Jam 2012
 			* Global Game Jam 2011
