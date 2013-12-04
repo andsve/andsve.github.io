@@ -28,6 +28,15 @@ header {
     width: 100%;
 }
 
+header a {
+    position: relative;
+}
+
+header a:hover {
+    padding-bottom: 2px;
+    bottom: 2px;
+}
+
 header>nav, header>div {
     display: table-cell;
 }
@@ -48,6 +57,7 @@ nav a.current {
 }
 
 #social>a {
+    position: relative;
     margin: 0px 5px 0px 0px;
     text-decoration: none;
     font-size: 1.0em;
@@ -55,9 +65,9 @@ nav a.current {
 
 #wrap {
     position: relative;
-	margin: 20px 0px 20px 0px;
+	margin: 20px 0px 0px 0px;
 	background-color: #fff;
-	border-radius: 3px;
+	border-radius: 3px 3px 0px 0px;
 	border: solid 1px #ddd;
     padding: 100px 0px;
 }
@@ -103,11 +113,11 @@ h3.postdate {
 
 a {
     color: #118;
-    transition: all 150ms ease-in;
+    transition: all 100ms ease-in;
 }
 
 a:hover {
-    color: #33c;
+    color: #33b;
 }
 
 code {
@@ -149,4 +159,26 @@ body.read_mode p
     
 }
 
+footer {
+    background-color: #ddd;
+    padding: 50px 100px;
+    font-size: 0.9em;
+    border-radius: 0px 0px 3px 3px;
+}
 
+footer>ul {
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+}
+
+footer>ul a {
+    color: #000;
+    text-decoration: none;
+    font-family: 'bariol_boldbold';
+}
+
+footer>ul a:hover {
+    color: #222;
+
+}

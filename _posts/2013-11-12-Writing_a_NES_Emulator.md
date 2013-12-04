@@ -2,7 +2,6 @@
 layout: post
 title: Writing a NES/Famicom Emulator in C
 curr: articles
-toc: true
 ---
 ### Design
 
