@@ -79,6 +79,7 @@ a {
     -webkit-transition:all 150ms ease-in;
 	-o-transition:all 150ms ease-in;
 	-moz-transition:all 150ms ease-in;
+    transition:all 150ms ease-in;
 }
 
 a:hover {
