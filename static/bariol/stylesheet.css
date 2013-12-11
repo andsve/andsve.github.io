@@ -6,9 +6,9 @@
     font-family: 'bariol_regularregular';
     src: url('bariol_regular-webfont.eot');
     src: url('bariol_regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('bariol_regular-webfont.svg#bariol_regularregular') format('svg'),
          url('bariol_regular-webfont.woff') format('woff'),
-         url('bariol_regular-webfont.ttf') format('truetype'),
-         url('bariol_regular-webfont.svg#bariol_regularregular') format('svg');
+         url('bariol_regular-webfont.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 
@@ -18,9 +18,9 @@
     font-family: 'bariol_boldbold';
     src: url('bariol_bold-webfont.eot');
     src: url('bariol_bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('bariol_bold-webfont.svg#bariol_boldbold') format('svg'),
          url('bariol_bold-webfont.woff') format('woff'),
-         url('bariol_bold-webfont.ttf') format('truetype'),
-         url('bariol_bold-webfont.svg#bariol_boldbold') format('svg');
+         url('bariol_bold-webfont.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 
@@ -30,9 +30,9 @@
     font-family: 'bariol_lightlight';
     src: url('bariol_light-webfont.eot');
     src: url('bariol_light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('bariol_light-webfont.svg#bariol_lightlight') format('svg',
          url('bariol_light-webfont.woff') format('woff'),
-         url('bariol_light-webfont.ttf') format('truetype'),
-         url('bariol_light-webfont.svg#bariol_lightlight') format('svg');
+         url('bariol_light-webfont.ttf') format('truetype'));
     font-weight: normal;
     font-style: normal;
 
@@ -42,9 +42,9 @@
     font-family: 'bariolthin';
     src: url('bariol_thin-webfont.eot');
     src: url('bariol_thin-webfont.eot?#iefix') format('embedded-opentype'),
+         url('bariol_thin-webfont.svg#bariolthin') format('svg'),
          url('bariol_thin-webfont.woff') format('woff'),
-         url('bariol_thin-webfont.ttf') format('truetype'),
-         url('bariol_thin-webfont.svg#bariolthin') format('svg');
+         url('bariol_thin-webfont.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 
