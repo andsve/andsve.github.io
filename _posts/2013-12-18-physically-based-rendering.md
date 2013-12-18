@@ -3,11 +3,14 @@ layout: post
 title: Getting started with Physically Based Rendering/Shading
 toc: true
 ---
+This is a collection of Physically Based Rendering/Shading/Lighting material I've found scattered around the web. I believe it's quite handy to have a list like this on various rendering topics, hopefully it can be of use for somebody! 
+
 ### Books
 * [Physically Based Rendering](http://www.pbrt.org/) by Matt Pharr & Greg Humphreys ([Buy me one!](http://amzn.com/w/3JP6P23PBFCTJ))
 
 ### Collections
 * [Physically Based Shading in Theory and Practice](http://blog.selfshadow.com/publications/s2013-shading-course/) - SIGGRAPH 2013 Course
+* [Physically-Based Shading Models in Film and Game Production](http://renderwonk.com/publications/s2010-shading-course/) - SIGGRAPH 2010 Course
 
 ### Articles and Slides
 **Note:** Some of the articles listed here are from the collections above. They are listed here again in case the collections are changed or removed.
@@ -16,8 +19,13 @@ toc: true
 * [Background: Physics and Math of Shading](http://blog.selfshadow.com/publications/s2013-shading-course/hoffman/s2013_pbs_physics_math_slides.pdf) - Introduction presentation slides from the SIGGRAPH 2013 course above, by the all mighty Naty Hoffman.
 * [Getting more physical in Call of Duty: Black Ops 2](http://blog.selfshadow.com/publications/s2013-shading-course/lazarov/s2013_pbs_black_ops_2_slides_v2.pdf) - Presentation slides from Dimitar Lazarov, Lead Graphics Engineer at Treyarch.
 * [Real Shading in Unreal Engine 4 - Slides](http://blog.selfshadow.com/publications/s2013-shading-course/karis/s2013_pbs_epic_slides.pdf) - Presentation slides from Brian Karis, Senior Graphics Programmer at Epic Games.
-* [Real Shading in Unreal Engine 4 - Presentation Notes](http://www.unrealengine.com/files/downloads/2013SiggraphPresentationsNotes.pdf) - Really great technical notes for the presentation above.
+* [Real Shading in Unreal Engine 4 - Course Notes](http://www.unrealengine.com/files/downloads/2013SiggraphPresentationsNotes.pdf) - Really great technical notes for the presentation above.
 * [Crafting a Next-Gen Material Pipeline for The Order: 1886](http://blog.selfshadow.com/publications/s2013-shading-course/rad/s2013_pbs_rad_slides.pdf) - Slides David Neubelt and Matt Pettineo, two Graphics Programmers at Ready At Dawn Studios.
+* [Physically Based Shading Models in Film and Game Production - Slides](http://renderwonk.com/publications/s2010-shading-course/gotanda/slide_practical_implementation_at_triace.pdf) - Practical implementation at tri-Ace by Yoshiharu Gotanda, Research and Development Department
+tri-Ace, Inc.
+* [Physically Based Shading Models in Film and Game Production - Course Notes](http://renderwonk.com/publications/s2010-shading-course/gotanda/course_note_practical_implementation_at_triace.pdf) - Course notes for presentation above.
+* [Crafting Physically Motivated Shading Models for Game Development - Slides](http://renderwonk.com/publications/s2010-shading-course/hoffman/s2010_physically_based_shading_hoffman_b.pdf) - Naty Hoffman.
+* [Crafting Physically Motivated Shading Models for Game Development - Course Notes](http://renderwonk.com/publications/s2010-shading-course/hoffman/s2010_physically_based_shading_hoffman_b_notes.pdf) - Course notes for Natys presentation.
 * [#AltDevBlog: Shader Code for Physically Based Lighting](http://www.altdevblogaday.com/2011/08/23/shader-code-for-physically-based-lighting/) - Actual shader implementation of PBR by Keith Judge, Unreal Engine 4 coder at PitbullStudio.
 * [CodeItNow: Physically-Based Shading](http://www.rorydriscoll.com/2013/11/22/physically-based-shading/) - Blog discussion on PBS by Rory Driscoll, Lead Game Programmer at Sony Santa Monica.
 
