@@ -32,10 +32,12 @@ header a {
     position: relative;
 }
 
+/*
 header a:hover {
     padding-bottom: 2px;
     bottom: 2px;
 }
+*/
 
 header>nav, header>div {
     display: table-cell;
@@ -67,9 +69,39 @@ nav a.current {
     position: relative;
 	margin: 20px 0px 0px 0px;
 	background-color: #fff;
-	border-radius: 3px 3px 0px 0px;
+	border-radius: 3px;
 	border: solid 1px #ddd;
-    padding: 100px 0px;
+    padding: 100px 0px 0px 0px;
+}
+
+#toc {
+    padding: 2px 100px;
+    background-color: #f5f5f5;
+}
+
+#toc>ul {
+    list-style: none;
+    padding: 0px;
+    margin: 16px 0px;
+}
+
+#toc>ul>li:before {
+    content: "\f068";
+    font-family: FontAwesome;
+    font-size: 0.7em;
+    display: inline-block;
+    margin-left: -20px;
+    width: 20px;
+}
+
+#toc a, .quicknotes a {
+    color: #000;
+    text-decoration: none;
+    font-family: 'bariol_boldbold';
+}
+
+#toc a:hover, .quicknotes a:hover {
+    color: #444;
 }
 
 #content {
@@ -77,12 +109,13 @@ nav a.current {
 }
 
 p, h1, h2, h3, h4 {
-    padding: 20px 100px;
+    /* padding: 20px 100px; */
+    padding: 40px 100px 20px 100px;
     margin: 0px;
     font-family: 'bariol_lightlight';
 }
 
-p {
+p, #content>ul {
     font-size: 1em;
     line-height: 1.618em;
     font-family: 'bariol_regularregular';
@@ -96,6 +129,39 @@ p {
     hyphens: auto;
 }
 
+.quicknotes {
+    margin: 16px 0px;
+    padding: 16px 100px;
+    background-color: #f5f5f5;
+}
+
+.quicknotes>ul {
+    list-style: none;
+}
+
+.quicknotes>ul>li:before {
+    content: "\f068";
+    font-family: FontAwesome;
+    font-size: 0.7em;
+    display: inline-block;
+    margin-left: -20px;
+    width: 20px;
+}
+
+#content>ul {
+    list-style: none;
+    padding-left: 130px;
+}
+
+#content>ul>li:before {
+    content: "\f10c";
+    font-family: FontAwesome;
+    font-size: 0.7em;
+    display: inline-block;
+    margin-left: -30px;
+    width: 30px;
+}
+
 p+p {
     text-indent: 2em;
 }
@@ -107,7 +173,7 @@ h2.posttitle {
 h3.postdate {
     font-size: 1.0em;
     color: #999;
-    padding: 10px 100px 100px 100px;
+    padding: 14px 100px 50px 100px;
     transition: all 1s ease-in;
 }
 
@@ -127,7 +193,7 @@ code {
     padding: 2px 100px 2px 90px;
     font-size: 0.9em;
     background-color: #f5f5f5;
-    font-family: 'saxmonoregular', monospaced;
+    font-family: 'saxmonoregular', monospace;
 }
 
 blockquote {
@@ -160,10 +226,9 @@ body.read_mode p
 }
 
 footer {
-    background-color: #ddd;
     padding: 50px 100px;
     font-size: 0.9em;
-    border-radius: 0px 0px 3px 3px;
+    margin-top: 100px;
 }
 
 footer>ul {
@@ -179,6 +244,21 @@ footer>ul a {
 }
 
 footer>ul a:hover {
-    color: #222;
+    color: #444;
 
 }
+
+/*
+footer>ul a:before {
+    font-family: 'FontAwesome';
+    content: "\f054  ";
+    font-size: 0.0em;
+    color: #fff;
+    transition: all 100ms ease-in;
+}
+
+footer>ul a:hover:before {
+    color: #000;
+    font-size: 0.6em;
+}
+*/
