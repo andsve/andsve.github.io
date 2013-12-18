@@ -31,4 +31,4 @@ tri-Ace, Inc.
 * [Physically Based Rendering for Artists](https://www.youtube.com/watch?v=LNwMJeWFr0U) - A great in depth video guide aimed at artists, by [Andrew Maximov](https://www.youtube.com/user/d1v3rsion)
 * [Unreal Engine 4 - Tech-Video zu Layered Materials](https://www.youtube.com/watch?v=0vFZPEIUIB4) - Tech talk about layered materials in UE4.
 * [Hideo Kojima GDC 2013 Panel - MGS5 & Fox Engine](http://www.youtube.com/watch?v=FQMbxzTUuSg) - Should have some information on PBS, but haven't watched it yet.
-* [Lighting in Killzone: Shadow Fall](http://www.youtube.com/watch?v=_29M8F-sRsU) - Presentation by Micha&#x0142; Drobot (Guerrilla Games), haven't watched it yet.
+* [Lighting in Killzone: Shadow Fall](http://www.youtube.com/watch?v=_29M8F-sRsU) - Presentation by Michał Drobot (Guerrilla Games), haven't watched it yet.
