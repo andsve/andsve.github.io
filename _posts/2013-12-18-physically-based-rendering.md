@@ -3,7 +3,7 @@ layout: post
 title: Getting started with Physically Based Rendering/Shading
 toc: true
 ---
-This is a collection of Physically Based Rendering/Shading/Lighting material I've found scattered around the web. I believe it's quite handy to have a list like this on various rendering topics, hopefully it can be of use for somebody! 
+This is a collection of Physically Based Rendering/Shading/Lighting material I've found scattered around the web. I believe it's quite handy to have a list like this on various rendering topics, hopefully it can be of use for somebody! And if you find something I have missed, please [let me know](mailto:me@svenandersson.se)!
 
 ### Books
 * [Physically Based Rendering](http://www.pbrt.org/) by Matt Pharr & Greg Humphreys ([Buy me one!](http://amzn.com/w/3JP6P23PBFCTJ))
