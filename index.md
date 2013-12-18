@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: old
 title: Sven Andersson - About me
 curr: aboutme
 ---

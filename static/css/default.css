@@ -248,6 +248,37 @@ footer>ul a:hover {
 
 }
 
+/* article list stuff */
+#content>ul.articles {
+    list-style: none;
+    padding: 0px;
+    margin: 40px 0px 100px 0px;
+}
+
+#content>ul.articles>li {
+    padding: 0px;
+    margin: 0px;
+}
+
+#content>ul.articles>li:before {
+    content: none;
+}
+
+#content>ul.articles h3 {
+    margin: 0px;
+    padding: 0px 100px 20px 100px;
+}
+
+#content>ul.articles a {
+    /*color: #000;*/
+    text-decoration: none;
+    font-family: 'bariol_regularregular';
+}
+
+#content>ul.articles a:hover {
+    /*color: #444;*/
+}
+
 /*
 footer>ul a:before {
     font-family: 'FontAwesome';
