@@ -12,7 +12,7 @@ toc: true
 ### Articles and Slides
 **Note:** Some of the articles listed here are from the collections above. They are listed here again in case the collections are changed or removed.
 
-* [RYSE – The Transition to Physically Based Shading](http://www.makinggames.de/index.php/magazin/2391_ryse__the_transition_to_physically_based_shading) - Short article by Nicolas Schulz, Senior Rendering Engineer at Crytek.
+* [RYSE - The Transition to Physically Based Shading](http://www.makinggames.de/index.php/magazin/2391_ryse__the_transition_to_physically_based_shading) - Short article by Nicolas Schulz, Senior Rendering Engineer at Crytek.
 * [Background: Physics and Math of Shading](http://blog.selfshadow.com/publications/s2013-shading-course/hoffman/s2013_pbs_physics_math_slides.pdf) - Introduction presentation slides from the SIGGRAPH 2013 course above, by the all mighty Naty Hoffman.
 * [Getting more physical in Call of Duty: Black Ops 2](http://blog.selfshadow.com/publications/s2013-shading-course/lazarov/s2013_pbs_black_ops_2_slides_v2.pdf) - Presentation slides from Dimitar Lazarov, Lead Graphics Engineer at Treyarch.
 * [Real Shading in Unreal Engine 4 - Slides](http://blog.selfshadow.com/publications/s2013-shading-course/karis/s2013_pbs_epic_slides.pdf) - Presentation slides from Brian Karis, Senior Graphics Programmer at Epic Games.
