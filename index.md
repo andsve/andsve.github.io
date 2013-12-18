@@ -51,11 +51,11 @@ Sven Andersson
 * ### Social ###
 	
 	<ul>
-	<li><i class="icon-linkedin-sign"></i> [Sven Andersson](http://se.linkedin.com/pub/sven-andersson/24/179/66)</li>
-	<li><i class="icon-dribble"></i> [@andsve](http://dribbble.com/andsve)</li>
-	<li><i class="icon-twitter"></i> [@andsve](http://twitter.com/andsve)</li>
-	<li><i class="icon-instagram"></i> [@andsve](http://instagram.com/andsve)</li>
-	<li><i class="icon-flickr"></i> [andsve](http://www.flickr.com/photos/andsve/)</li>
+	<li><i class="fa fa-linkedin-square"></i> [Sven Andersson](http://se.linkedin.com/pub/sven-andersson/24/179/66)</li>
+	<li><i class="fa fa-dribbble"></i> [@andsve](http://dribbble.com/andsve)</li>
+	<li><i class="fa fa-twitter-square"></i> [@andsve](http://twitter.com/andsve)</li>
+	<li><i class="fa fa-instagram"></i> [@andsve](http://instagram.com/andsve)</li>
+	<li><i class="fa fa-flickr"></i> [andsve](http://www.flickr.com/photos/andsve/)</li>
 	</ul>
 
 * ### Contact ###
