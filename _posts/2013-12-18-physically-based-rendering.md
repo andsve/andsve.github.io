@@ -26,6 +26,8 @@ tri-Ace, Inc.
 * [Physically Based Shading Models in Film and Game Production - Course Notes](http://renderwonk.com/publications/s2010-shading-course/gotanda/course_note_practical_implementation_at_triace.pdf) - Course notes for presentation above.
 * [Crafting Physically Motivated Shading Models for Game Development - Slides](http://renderwonk.com/publications/s2010-shading-course/hoffman/s2010_physically_based_shading_hoffman_b.pdf) - Naty Hoffman.
 * [Crafting Physically Motivated Shading Models for Game Development - Course Notes](http://renderwonk.com/publications/s2010-shading-course/hoffman/s2010_physically_based_shading_hoffman_b_notes.pdf) - Course notes for Natys presentation.
+* [Terminators and Iron Men: Image-based lightingand physical shading at ILM - Slides](http://renderwonk.com/publications/s2010-shading-course/snow/sigg2010_physhadcourse_ILM_slides.compressed.pdf) - Information on how IBL and PBL was used at ILM in Iron Man and Terminator Salvation, by Ben Snow.
+* [Terminators and Iron Men: Image-based lightingand physical shading at ILM - Course Notes](http://renderwonk.com/publications/s2010-shading-course/snow/sigg2010_physhadcourse_ILM.pdf) - Course notes for the ILM presentation.
 * [#AltDevBlog: Shader Code for Physically Based Lighting](http://www.altdevblogaday.com/2011/08/23/shader-code-for-physically-based-lighting/) - Actual shader implementation of PBR by Keith Judge, Unreal Engine 4 coder at PitbullStudio.
 * [CodeItNow: Physically-Based Shading](http://www.rorydriscoll.com/2013/11/22/physically-based-shading/) - Blog discussion on PBS by Rory Driscoll, Lead Game Programmer at Sony Santa Monica.
 
