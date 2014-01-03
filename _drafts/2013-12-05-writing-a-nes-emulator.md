@@ -4,11 +4,10 @@ title: Writing a NES/Famicom Emulator in C++
 curr: articles
 toc: true
 ---
-### Introduction
+## Introduction
 So you want to write an NES emulator? The usual question is; "Why write yet another emulator when there are so many allready out there?". My own answer, and I think many would agree; it's fun and something I always wanted to do ever since I started programming.
 
 Writing an emulator can seem like a enormous task, and figuring out where and how to start can be a bit daunting. There are a lot of information out there, the problem is that it's quite scattered and a bit hard to "just" dive into. The main reason for this article is to give something back to the emulation community and help anyone just starting out with their own NES emulator.
-
 The information written here can probably be applied to other architectures than the NES, and generalized to other languages than C/C++.
 
 This document is written as a rough guide, not a true tutorial on how I implemented a NES emulator. This means you will not have a fully working emulator by just using the code examples in this article, you will however have a rough idea how to implement one and where to start on your own. You will encounter problems along the way that I and other people already have run into, this should serve as a good point to start searching for solutions.
@@ -17,7 +16,7 @@ I do not claim this is the best or easiest way to implement an emulator, but thi
 
 **Please note:** Before going further, you should have basic knowledge of how a CPU works.
 
-### Emulating NES Architecture
+## Emulating NES Architecture
 
 I'm going to assume you allready have skimmed through one or two NES documentations before coming here. So, you probably have at least a vague idea what the NES hardware consist of. There are a lot of information regarding emulation in general on the internet, as well as in depth information on the NES architecture. I will try to organize a collection of relevant links at the bottom of this article as reference. For the rest of this section I'll try to give a concice description of the hardware and its different units, then we will start to implementing each part in the subsequent sections.
 
@@ -54,10 +53,10 @@ void run_emulator( const char* _rom_path )
 {% endhighlight %}
 Simple stuff, right? Now we only have to implement these functions, and we should end up with a fully functioning emulator. Just one step at a time...
 
-### Memory
+## Memory
 - **TODO** memory layout
 
-### Booting/Reset
+## Booting/Reset
 - **TODO** First of all, we need to emulated how the hardware boots up. This means reseting all internal flags and registers to their default values.
 {% highlight c++ %}
 void boot_nes()
@@ -78,7 +77,7 @@ iNES_ROM load_rom( const char* _rom_path )
 }
 {% endhighlight %}
 
-### Implementing the CPU
+## Implementing the CPU
 
 - **TODO** cpu loop etc
 {% highlight c++ %}
@@ -107,11 +106,11 @@ void tick_cpu( iNES_ROM &_rom )
 
 - **TODO** memory access
 
-### Unsupported Opcodes
+## Unsupported Opcodes
 
 - **TODO** make a list of diffuculties etc
 
-### Implementing the PPU
+## Implementing the PPU
 
 - **TODO** where to start, making the ppu-tick
 {% highlight c++ %}
@@ -123,15 +122,15 @@ void tick_ppu( iNES_ROM &_rom )
 
 - **TODO** memory areas and data chunks
 
-### Implementing the APU
+## Implementing the APU
 - **TODO** no idea
 
-### Miscellaneous
+## Miscellaneous
 
 - **TODO** debugging using nestest.nes
 - **TODO** accuracy, counting clock cycles
 
-### Additional Information
+## Additional Information
 
 - [NesDev Wiki](http://wiki.nesdev.com/w/index.php/Nesdev_Wiki) - One of the greatest sources for NES development, both ROM programming and system architecture information.
 - [Blargg's 6502 Emulation Notes](http://slack.net/~ant/nes-emu/6502.html) - Blargg is well known in emulator circles, here are some of his own tips for writing an emulator.
@@ -140,5 +139,5 @@ void tick_ppu( iNES_ROM &_rom )
 - [nes-test-roms](https://github.com/christopherpow/nes-test-roms) - Collection of test ROMs for testing your NES emulator.
 
 
-### Changes
-- 2013-12-05 - Initial post
+## Changes
+- 2013-12-05 - Initial draft

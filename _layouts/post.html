@@ -3,7 +3,8 @@
 	<head>
 		<meta charset="utf-8"> 
 		<title>{{ page.title }}</title>
-		<link rel="stylesheet" href="/static/css/default.css">
+		<link rel="stylesheet" href="/static/css/normalize.css">
+		<link rel="stylesheet" href="/static/css/alternative.css">
 		<link rel="stylesheet" href="/static/css/syntax.css">
 		<link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
 
@@ -27,27 +28,35 @@
 	  {% endif %}
 	</head>
 	<body>
-		<header>		
-			<nav>
-				<a href="/">About me</a>
-				<a href="/articles/">Articles</a>
-				<a href="/cv.html">CV</a>
-			</nav>
-			<div id="social">
-				<a href="http://twitter.com/andsve"><i class="fa fa-twitter-square"> </i></a>
-				<a href="http://linkedin.com/in/andsve"><i class="fa fa-linkedin-square"> </i></a>
-				<a href="http://dribbble.com/andsve"><i class="fa fa-dribbble"> </i></a>
-				<a href="http://bitbucket.org/andsve"><i class="fa fa-bitbucket"> </i></a>
-				<a href="http://github.com/andsve"><i class="fa fa-github"> </i></a>
-			</div>
+		<header>
+			<div>			
+				<nav>
+					<a href="/">About me</a>
+					<a href="/articles/" class="current">Articles</a>
+					<a href="/cv.html">Resume</a>
+				</nav>
+				<div id="social">
+					<a href="http://twitter.com/andsve"><i class="fa fa-twitter-square"> </i></a>
+					<a href="http://linkedin.com/in/andsve"><i class="fa fa-linkedin-square"> </i></a>
+					<a href="http://dribbble.com/andsve"><i class="fa fa-dribbble"> </i></a>
+					<a href="http://bitbucket.org/andsve"><i class="fa fa-bitbucket"> </i></a>
+					<a href="http://github.com/andsve"><i class="fa fa-github"> </i></a>
+				</div>
+			</div>		
 		</header>
+		<div id="posthead">
+			<div>
+				<h1 class="posttitle" style="background-image: url({{ page.image }});">{{ page.title }}</h1>
+				<!--
+				{% if page.updated %}
+				<h3 class="postdate">orginally written {{ page.date | date: "%Y %b %d" }}, updated {{ page.updated | date: "%Y %b %d" }}</h3>
+				{% else %}
+				<h3 class="postdate">written {{ page.date | date: "%Y %b %d" }}</h3>
+				{% endif %}
+				-->
+			</div>
+		</div>
 		<div id="wrap" class="blog">
-		<h2 class="posttitle" style="background-image: url({{ page.image }});">{{ page.title }}</h2>
-		{% if page.updated %}
-		<h3 class="postdate">orginally written {{ page.date | date: "%Y %b %d" }}, updated {{ page.updated | date: "%Y %b %d" }}</h3>
-		{% else %}
-		<h3 class="postdate">written {{ page.date | date: "%Y %b %d" }}</h3>
-		{% endif %}
 		{% if page.toc %}
 		<div id="toc">Table of contents</div>
 		{% endif %}
@@ -55,15 +64,14 @@
 		{{ content }}
 			</div>
 
-		<footer>
-			Previous posts
-			<ul>
-			{% for post in site.posts limit: 5 %}
-				<li><a href="{{ post.url }}">{{ post.title }}</a></li>
-			{% endfor %}
-			</ul>
-		</footer>
 		</div>
+		<footer>
+			<div>
+				Written by Sven Andersson on {{ page.date | date: "%b %d, %Y" }}.<br>
+				Send me feedback via <a href="mailto:contact@svenandersson.se">email</a> or <a href="http://twitter.com/andsve">Twitter</a>.<br>
+				With <i class="fa fa-heart"></i> from Sweden.
+			</div>
+		</footer>
 	</body>
 		
 </html>

@@ -117,7 +117,8 @@ p, h1, h2, h3, h4 {
 
 p, #content>ul {
     font-size: 1em;
-    line-height: 1.618em;
+    /*line-height: 1.618em;*/
+    line-height: 145%;
     font-family: 'bariol_regularregular';
     padding: 0px 100px 0px 100px;
     word-break: break-all;

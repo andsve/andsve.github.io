@@ -1,0 +1,158 @@
+
+@import url(/static/bariol/stylesheet.css);
+@import url(/static/saxmono/stylesheet.css);
+
+html, body {
+	margin: 0px;
+	padding: 0px;
+}
+
+body {
+	font-family: 'bariol_regularregular', Helvetica, Arial, sans-serif;
+	color: #444;
+    font-size: 23px;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+}
+
+a {
+	text-decoration: none;
+    color: #118;
+    transition: all 100ms ease-in;
+}
+
+a:hover {
+    color: #33b;
+}
+
+header {
+	background-color: #118;
+	display: table;
+	width: 100%;
+}
+
+header>div {
+	margin: 20px auto 20px auto;
+	width: 700px;	
+    display: table;
+}
+
+header>div>nav, header>div>div {
+    display: table-cell;
+}
+
+header>div>nav>a {
+	margin: 0px 20px 0px 0px;
+	font-size: 0.8em;
+	color: #fff;
+	padding: 3px 10px;
+	border-radius: 3px;
+}
+
+header>div>nav>a:hover, header>div>nav>a.current {
+	color: #118;
+	background-color: #fff;
+}
+
+#social {
+    text-align: right;
+    font-size: 24px;
+}
+
+#social>a {
+	color: #fff;
+    margin: 0px 0px 0px 5px;
+}
+
+h1 {
+    /* padding: 20px 100px; */
+    margin: 0px;
+    font-family: 'bariol_lightlight';
+}
+
+h2, h3, h4 {
+	margin-top: 40px;
+	font-family: 'bariol_boldbold';
+	font-weight: normal;
+}
+
+p, #content>ul, footer {
+    font-size: 1em;
+    /*line-height: 1.618em;*/
+    line-height: 135%;
+    word-break: break-all;
+    /* Non standard for webkit */
+    word-break: break-word;
+    -webkit-hyphens: auto;
+    -moz-hyphens: auto;
+    -ms-hyphens: auto;
+    hyphens: auto;
+    text-align: justify;
+}
+
+p+p {
+    text-indent: 1em;
+}
+
+strong { font-weight: normal; font-family: 'bariol_boldbold'; }
+
+div#posthead {
+	padding: 100px;
+	background-color: #33b;
+	color: #fff;
+	text-align: center;
+}
+
+div#posthead>div {
+	width: 600px;
+	margin: auto;
+}
+
+#wrap {	
+	margin: 60px auto;
+	width: 600px;
+}
+
+#content a:after {
+	font-family: 'FontAwesome';
+	content: ' \f08e';
+	font-size: 0.5em;
+	vertical-align: bottom;
+	color: #555;
+}
+
+code {
+	background-color: #fdfdfd;
+	border: solid 1px #dfdfdf;
+    border-radius: 6px;
+    display: block;
+    padding: 10px;
+    margin: 10px;
+    font-size: 0.8em;
+    /*background-color: #f5f5f5;*/
+    font-family: 'saxmonoregular', monospace;
+}
+
+footer {
+	background-color: #33b;
+	color: #fff;
+	display: table;
+	width: 100%;
+}
+
+footer>div {
+	margin: 70px auto;
+	width: 700px;
+	text-align: center;
+}
+
+footer a {
+	font-family: 'bariol_boldbold';
+	color: #fff;
+	padding: 4px;
+	border-radius: 3px;
+}
+
+footer a:hover {
+	background-color: #fff;
+}
