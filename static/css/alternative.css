@@ -88,9 +88,10 @@ p, #content>ul, footer {
     font-size: 1em;
     /*line-height: 1.618em;*/
     line-height: 135%;
-    word-break: break-all;
-    /* Non standard for webkit */
-    word-break: break-word;
+    /*word-break: break-all;
+    Non standard for webkit
+    word-break: break-word;*/
+    word-wrap: break-word;
     -webkit-hyphens: auto;
     -moz-hyphens: auto;
     -ms-hyphens: auto;
@@ -145,17 +146,17 @@ div#posthead>div {
 	border-radius: 3px;
 }
 
-body.read_mode>#toc>ul>li>a {
+body.read_mode>#toc>ul>li>a, #toc>ul:hover>li>a {
 	color: #aaa;
 }
 
-#toc>ul>li>a.active {
+#toc>ul>li>a.active, #toc>ul>li>a:hover {
 	padding: 4px;
 	color: #fff !important;
 	background-color: #ddd;
 }
 
-body.read_mode>#toc>ul>li>a.active {
+body.read_mode>#toc>ul>li>a.active, #toc>ul:hover>li>a.active, #toc>ul:hover>li>a:hover {
 	background-color: #33b;
 }
 
