@@ -10,7 +10,7 @@ html, body {
 body {
 	font-family: 'bariol_regularregular', Helvetica, Arial, sans-serif;
 	color: #444;
-    font-size: 23px;
+    font-size: 21px;
     text-rendering: optimizeLegibility;
     -webkit-font-smoothing: antialiased;
 }
@@ -33,7 +33,7 @@ header {
 
 header>div {
 	margin: 20px auto 20px auto;
-	width: 700px;	
+	width: 600px;	
     display: table;
 }
 
@@ -62,6 +62,14 @@ header>div>nav>a:hover, header>div>nav>a.current {
 #social>a {
 	color: #fff;
     margin: 0px 0px 0px 5px;
+}
+
+ul {
+	list-style: none;
+}
+
+ul>li {
+	margin: 10px 0px;
 }
 
 h1 {
@@ -97,6 +105,12 @@ p+p {
 strong { font-weight: normal; font-family: 'bariol_boldbold'; }
 
 div#posthead {
+	padding: 50px 50px 10px 50px;
+	color: #000;
+	text-align: center;
+}
+
+body.grand>div#posthead {
 	padding: 100px;
 	background-color: #33b;
 	color: #fff;
@@ -108,11 +122,78 @@ div#posthead>div {
 	margin: auto;
 }
 
+#toc, #toc>ul, #toc>ul>li {
+	margin: 0px;
+	padding: 0px;
+}
+
+#toc {
+	position: absolute;
+	left: 0px;
+	top: auto;
+	font-size: 0.8em;
+	margin: 40px;
+}
+
+#toc>ul>li {
+	margin: 8px 0px;
+}
+
+
+#toc>ul>li>a {
+	color: #ddd;
+	border-radius: 3px;
+}
+
+body.read_mode>#toc>ul>li>a {
+	color: #aaa;
+}
+
+#toc>ul>li>a.active {
+	padding: 4px;
+	color: #fff !important;
+	background-color: #ddd;
+}
+
+body.read_mode>#toc>ul>li>a.active {
+	background-color: #33b;
+}
+
+
+/*
+body.read_mode>#toc>ul>li>a.active {
+	color: #fff;
+}
+*/
+
+body.read_mode>#toc {
+	position: fixed;
+	top: 0px;
+}
+
 #wrap {	
+	position: relative;
 	margin: 60px auto;
 	width: 600px;
 }
 
+#content {
+	width: 600px;
+}
+
+#content>ul>li:before {
+	font-family: 'FontAwesome';
+	content: '\f111 ';
+	font-size: 0.45em;
+	color: #aaa;
+	margin-left: -20px;
+	text-align: left;
+	vertical-align: middle;
+    width: 20px;
+    display: inline-block;
+}
+
+/* external link fluff
 #content a:after {
 	font-family: 'FontAwesome';
 	content: ' \f08e';
@@ -120,6 +201,7 @@ div#posthead>div {
 	vertical-align: bottom;
 	color: #555;
 }
+*/
 
 code {
 	background-color: #fdfdfd;
@@ -134,25 +216,37 @@ code {
 }
 
 footer {
-	background-color: #33b;
-	color: #fff;
 	display: table;
 	width: 100%;
 }
 
+body.grand>footer {
+	background-color: #33b;
+	color: #fff;
+}
+
 footer>div {
 	margin: 70px auto;
-	width: 700px;
+	width: 600px;
 	text-align: center;
 }
 
 footer a {
 	font-family: 'bariol_boldbold';
-	color: #fff;
 	padding: 4px;
 	border-radius: 3px;
 }
 
 footer a:hover {
+	color: #fff;
+	background-color: #118;
+}
+
+body.grand>footer a {
+	color: #fff;
+}
+
+body.grand>footer a:hover {
+	color: #118;
 	background-color: #fff;
 }

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Writing a NES/Famicom Emulator in C++
-curr: articles
+grand: true
 toc: true
 ---
 ## Introduction

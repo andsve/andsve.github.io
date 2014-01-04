@@ -21,13 +21,15 @@
 			  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 			})();
 	  </script>
-	  <script src="/static/js/zepto.min.js"></script>
+	  <!--<script src="/static/js/zepto.min.js"></script>-->
+	  <script src="/static/js/jquery.min.js"></script>
 	  <script src="/static/js/default.js"></script>
 	  {% if page.toc %}
+	  <script src="/static/js/jquery-scrollspy.js"></script>
 	  <script src="/static/js/toc.js"></script>
 	  {% endif %}
 	</head>
-	<body>
+	<body{% if page.grand %} class = "grand"{% endif %}>
 		<header>
 			<div>			
 				<nav>
@@ -46,7 +48,8 @@
 		</header>
 		<div id="posthead">
 			<div>
-				<h1 class="posttitle" style="background-image: url({{ page.image }});">{{ page.title }}</h1>
+				<h1 class="posttitle">{{ page.title }}</h1>
+				
 				<!--
 				{% if page.updated %}
 				<h3 class="postdate">orginally written {{ page.date | date: "%Y %b %d" }}, updated {{ page.updated | date: "%Y %b %d" }}</h3>
@@ -56,10 +59,10 @@
 				-->
 			</div>
 		</div>
-		<div id="wrap" class="blog">
 		{% if page.toc %}
-		<div id="toc">Table of contents</div>
+		<div id="toc"></div>
 		{% endif %}
+		<div id="wrap" class="blog">
 			<div id="content">
 		{{ content }}
 			</div>
