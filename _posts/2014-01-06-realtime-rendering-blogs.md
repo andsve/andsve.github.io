@@ -6,7 +6,7 @@ toc: true
 ---
 A collection of (mostly) rendering and game engine related blogs, in no specific order. I used to have a couple of these as RSS feeds on a now defunct feed aggregator, and until I take the time to input them all into a working one, this post will have to do. Please let me know of you know of any swell blog that are missing!
 
-[Additions by Kyle Hayward.]
+[Additions by Kyle Hayward, Kostas Anagnostou, Aras Pranckevičius and Tom Forsyth.]
 
 ## Industry People
 * [Diary of a Graphics Programmer](http://diaryofagraphicsprogrammer.blogspot.com/) - Wolfgang Engel [<i class="fa fa-twitter-square"></i>](https://twitter.com/wolfgangengel), ShaderX and GPU Pro books editor legend, currently CEO of Confetti.
@@ -26,7 +26,7 @@ A collection of (mostly) rendering and game engine related blogs, in no specific
 * [Jon Olicks Blog](http://www.jonolick.com/) - Jon Olick [<i class="fa fa-twitter-square"></i>](https://twitter.com/JonOlick), [older blog](http://olickspulpit.blogspot.com/), work at Red 5 Studios.
 * [Deja VU](http://zenicengine.blogspot.com/) - Daniel Collin [<i class="fa fa-twitter-square"></i>](https://twitter.com/daniel_collin), Sr Software Engineer on the Frostbite rendering team.
 * [Joost's Dev Blog](http://joostdevblog.blogspot.com/) - Joost van Dongen [<i class="fa fa-twitter-square"></i>](https://twitter.com/JoostDevBlog), lead programmer of Ronimo Games.
-* [Timothy Lottes Blog](http://timothylottes.blogspot.com/) - Timothy Lottes [<i class="fa fa-twitter-square"></i>](https://twitter.com/TimothyLottes), Engineer at NVIDIA.
+* [Timothy Lottes Blog](http://timothylottes.blogspot.com/) - Timothy Lottes [<i class="fa fa-twitter-square"></i>](https://twitter.com/TimothyLottes), render team at Epic.
 * [Sébastien Lagarde](https://seblagarde.wordpress.com/) - Sébastien Lagarde [<i class="fa fa-twitter-square"></i>](https://twitter.com/SebLagarde), senior rendering programmer at DICE.
 * [cbloom rants](http://cbloomrants.blogspot.com/) - Charles Bloom, from RAD Game Tools.
 * [el trastero](http://www.iquilezles.org/blog/) - Iñigo Quilez [<i class="fa fa-twitter-square"></i>](https://twitter.com/iquilezles), TD at Pixar.
@@ -49,6 +49,11 @@ A collection of (mostly) rendering and game engine related blogs, in no specific
 * [Martin Codes](http://martinecker.com/martincodes/) - Martin Ecker [<i class="fa fa-twitter-square"></i>](https://twitter.com/martin_ecker), principal graphics programmer at High Moon Studios.
 * [spuify](http://www.spuify.co.uk/) - Steven Tovey [<i class="fa fa-twitter-square"></i>](https://twitter.com/nonchaotic), endering APIs and Performance Tools at Sony Advanced Technology Group.
 * [Interplay of Light](http://interplayoflight.wordpress.com/) - Kostas Anagnostou [<i class="fa fa-twitter-square"></i>](https://twitter.com/thinkinggamer), senior graphics programmer at Radiant Worlds.
+* [Solid Angle](http://solid-angle.blogspot.com/) - Steve Anichini [<i class="fa fa-twitter-square"></i>](https://twitter.com/solid_angle), Principal Graphics Programmer at Irrational Games.
+* [Simon's Graphics Blog](http://www.sjbrown.co.uk/) - Simon Brown [<i class="fa fa-twitter-square"></i>](https://twitter.com/sjb3d), PS4 graphics coder at Media Molecule.
+* [Simon's Tech Blog](http://simonstechblog.blogspot.co.uk/) - Simon Yeung, Senior Game Programmer at Insoft Development Limited.
+* [Blind Renderer](http://www.popekim.com/) - Pope Kim [<i class="fa fa-twitter-square"></i>](https://twitter.com/BlindRenderer), Senior Rendering Programmer.
+* [TomF's Tech Blog](http://home.comcast.net/~tom_forsyth/blog.wiki.html) - Tom Forsyth [<i class="fa fa-twitter-square"></i>](https://twitter.com/tom_forsyth), Software Architect at Oculus VR.
 
 ## Development Studios
 * [bitsquid: development blog](http://bitsquid.blogspot.com/) - Bitsquid [<i class="fa fa-twitter-square"></i>](https://twitter.com/bitsquid), a Swedish game engine developer, founded by former lead engineers of Grin.
@@ -61,6 +66,7 @@ A collection of (mostly) rendering and game engine related blogs, in no specific
 * [Casual Effects](http://casual-effects.blogspot.com/) - Morgan McGuire [<i class="fa fa-twitter-square"></i>](https://twitter.com/CasualEffects), Associate Professor at Williams College.
 * [Game Engine Architecture](http://gameenginebook.blogspot.com/) - Blog for the book "Game Engine Architecture" by Jason Gregory [<i class="fa fa-twitter-square"></i>](https://twitter.com/jqgregory), Lead Programmer at Naughty Dog.
 * [Voxelium](http://voxelium.wordpress.com/) - Attila Tamás Áfra [<i class="fa fa-twitter-square"></i>](https://twitter.com/attila_afra), PhD student in computer science at Budapest University of Technology and Economics.
+* [Pete Shirley's Graphics Blog](http://psgraphics.blogspot.co.uk/) - Pete Shirley, Adjunct Professor at University of Utah.
 
 
 ## Indie Game Dev
