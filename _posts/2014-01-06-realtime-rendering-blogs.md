@@ -17,7 +17,7 @@ A collection of (mostly) rendering and game engine related blogs, in no specific
 * [humus](http://www.humus.name) - Emil Persson [<i class="fa fa-twitter-square"></i>](https://twitter.com/_Humus_), Head of Research at Avalanche Studios.
 * [beautifulpixels](http://beautifulpixels.blogspot.com/) - Vincent Scheib [<i class="fa fa-twitter-square"></i>](https://twitter.com/Vincent_Scheib), Games and Graphics Dev. Google Chrome Games.
 * [Shawn Hargreaves Blog](http://blogs.msdn.com/b/shawnhar/) - Shawn Hargreaves [<i class="fa fa-twitter-square"></i>](https://twitter.com/ShawnHargreaves), Works at Microsoft on Windows Phone.
-* [direct to video](http://directtovideo.wordpress.com) - Matt Swoboda, aka Smash of demogroup Fairlight, principle engineer on SCEE R&D PhyreEngine.
+* [direct to video](http://directtovideo.wordpress.com) - Matt Swoboda, aka Smash of demogroup Fairlight, developer at United Visual Artists.
 * [Aras Blog](http://aras-p.info/blog/) - Aras Pranckevičius [<i class="fa fa-twitter-square"></i>](https://twitter.com/aras_p), Rendering dude at Unity Technologies.
 * [Graphic Rants](http://graphicrants.blogspot.com/) - Brian Karis [<i class="fa fa-twitter-square"></i>](https://twitter.com/BrianKaris), Senior Graphics Programmer at Epic Games.
 * [Graphics Runner](http://graphicsrunner.blogspot.com) - Kyle Hayward [<i class="fa fa-twitter-square"></i>](https://twitter.com/GraphicsRunner), graphics programmer at EA Tiburon.
