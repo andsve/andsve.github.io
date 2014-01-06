@@ -61,7 +61,7 @@ A collection of (mostly) rendering and game engine related blogs, in no specific
 * [John Ratcliff's Code Suppository](http://codesuppository.blogspot.com/) - John Ratcliff [<i class="fa fa-twitter-square"></i>](https://twitter.com/jratcliff), software engineer for NVIDIA.
 * [Ramblings in Valve Time](http://blogs.valvesoftware.com/abrash/) - Michael Abrash, Developer at Valve Software.
 * [Procedural World](http://procworld.blogspot.se/) - Miguel Cepero [<i class="fa fa-twitter-square"></i>](https://twitter.com/miguelcepero), developer and CEO at Voxel Farm.
-
+* [Ray Tracey's blog](http://raytracey.blogspot.ch/) - Sam Lapere, Project Manager at OTOY New Zealand.
 
 
 ## Development Studios
