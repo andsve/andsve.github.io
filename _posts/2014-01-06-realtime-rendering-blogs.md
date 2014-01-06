@@ -6,7 +6,7 @@ toc: true
 ---
 A collection of (mostly) rendering and game engine related blogs, in no specific order. I used to have a couple of these as RSS feeds on a now defunct feed aggregator, and until I take the time to input them all into a working one, this post will have to do. Please let me know of you know of any swell blog that are missing!
 
-[Additions by Kyle Hayward, Kostas Anagnostou, Aras Pranckevičius and Tom Forsyth.]
+[Additions by Kyle Hayward, Kostas Anagnostou, Aras Pranckevičius, Tom Forsyth and Jhonny Göransson.]
 
 ## Industry People
 * [Diary of a Graphics Programmer](http://diaryofagraphicsprogrammer.blogspot.com/) - Wolfgang Engel [<i class="fa fa-twitter-square"></i>](https://twitter.com/wolfgangengel), ShaderX and GPU Pro books editor legend, currently CEO of Confetti.
@@ -55,6 +55,7 @@ A collection of (mostly) rendering and game engine related blogs, in no specific
 * [Blind Renderer](http://www.popekim.com/) - Pope Kim [<i class="fa fa-twitter-square"></i>](https://twitter.com/BlindRenderer), Senior Rendering Programmer.
 * [TomF's Tech Blog](http://home.comcast.net/~tom_forsyth/blog.wiki.html) - Tom Forsyth [<i class="fa fa-twitter-square"></i>](https://twitter.com/tom_forsyth), Software Architect at Oculus VR.
 * [Lia-Sae's Blog](http://lia-sae.net/en) - Amandine Coget [<i class="fa fa-twitter-square"></i>](https://twitter.com/LiaSae), associate software engineer at DICE.
+* [rgba32](http://rgba32.blogspot.com/) - Mark Lee [<i class="fa fa-twitter-square"></i>](https://twitter.com/rgba32), Senior Software Engineer at DreamWorks Animation.
 
 ## Development Studios
 * [bitsquid: development blog](http://bitsquid.blogspot.com/) - Bitsquid [<i class="fa fa-twitter-square"></i>](https://twitter.com/bitsquid), a Swedish game engine developer, founded by former lead engineers of Grin.
