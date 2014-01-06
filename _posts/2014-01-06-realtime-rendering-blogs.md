@@ -4,7 +4,7 @@ title: Real-time Rendering Blogs
 grand: true
 toc: true
 ---
-A collection of (mostly) rendering and game engine related blogs, in no specific order. I used to have a couple of these as RSS feeds on a now defunct feed agregator, and until I take the time to input them all into a working one, this post will have to do. Please let me know of you know of any swell blog that are missing!
+A collection of (mostly) rendering and game engine related blogs, in no specific order. I used to have a couple of these as RSS feeds on a now defunct feed aggregator, and until I take the time to input them all into a working one, this post will have to do. Please let me know of you know of any swell blog that are missing!
 
 ## Industry People
 * [Diary of a Graphics Programmer](http://diaryofagraphicsprogrammer.blogspot.com/) - Wolfgang Engel [<i class="fa fa-twitter-square"></i>](https://twitter.com/wolfgangengel), ShaderX and GPU Pro books editor legend, currently CEO of Confetti.
