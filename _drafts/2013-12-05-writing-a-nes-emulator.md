@@ -135,6 +135,7 @@ void tick_ppu( iNES_ROM &_rom )
 - [NesDev Wiki](http://wiki.nesdev.com/w/index.php/Nesdev_Wiki) - One of the greatest sources for NES development, both ROM programming and system architecture information.
 - [Blargg's 6502 Emulation Notes](http://slack.net/~ant/nes-emu/6502.html) - Blargg is well known in emulator circles, here are some of his own tips for writing an emulator.
 - [NESTech](http://web.textfiles.com/games/nestech.txt) - Good overview of the NES hardware; CPU, PPU and memory info.
+- [Emulating the Nintendo Entertainment System by Rupert Shuttleworth](http://www.optimuscopri.me/nes/report.pdf) - A report, with source code, for a computer class. Goes into depth on how he implemented his own NES emulator, a very good read.
 - [How To Write a Computer Emulator by Marat Fayzullin](http://fms.komkon.org/EMUL8/HOWTO.html) - An emulation introduction guide written by Marat of [iNES](http://fms.komkon.org/iNES/) fame.
 - [nes-test-roms](https://github.com/christopherpow/nes-test-roms) - Collection of test ROMs for testing your NES emulator.
 

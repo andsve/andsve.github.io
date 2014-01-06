@@ -178,6 +178,10 @@ body.read_mode>#toc {
 	width: 600px;
 }
 
+#wrap a {
+	font-family: 'bariol_boldbold';
+}
+
 #content {
 	width: 600px;
 }
