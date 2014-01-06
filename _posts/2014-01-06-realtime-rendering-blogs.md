@@ -6,7 +6,7 @@ toc: true
 ---
 A collection of (mostly) rendering and game engine related blogs, in no specific order. I used to have a couple of these as RSS feeds on a now defunct feed aggregator, and until I take the time to input them all into a working one, this post will have to do. Please let me know of you know of any swell blog that are missing!
 
-[Additions by Kyle Hayward, Kostas Anagnostou, Aras Pranckevičius, Tom Forsyth and Jhonny Göransson.]
+[Additions by Kyle Hayward, Kostas Anagnostou, Aras Pranckevičius, Tom Forsyth, Jhonny Göransson and @TheEpsylon.]
 
 ## Industry People
 * [Diary of a Graphics Programmer](http://diaryofagraphicsprogrammer.blogspot.com/) - Wolfgang Engel [<i class="fa fa-twitter-square"></i>](https://twitter.com/wolfgangengel), ShaderX and GPU Pro books editor legend, currently CEO of Confetti.
@@ -56,11 +56,19 @@ A collection of (mostly) rendering and game engine related blogs, in no specific
 * [TomF's Tech Blog](http://home.comcast.net/~tom_forsyth/blog.wiki.html) - Tom Forsyth [<i class="fa fa-twitter-square"></i>](https://twitter.com/tom_forsyth), Software Architect at Oculus VR.
 * [Lia-Sae's Blog](http://lia-sae.net/en) - Amandine Coget [<i class="fa fa-twitter-square"></i>](https://twitter.com/LiaSae), associate software engineer at DICE.
 * [rgba32](http://rgba32.blogspot.com/) - Mark Lee [<i class="fa fa-twitter-square"></i>](https://twitter.com/rgba32), Senior Software Engineer at DreamWorks Animation.
+* [Yosoygames](http://yosoygames.com.ar/wp/) - Matías N. Goldberg [<i class="fa fa-twitter-square"></i>](https://twitter.com/matiasgoldberg), freelance software developer at Yosoygames.
+* [Icare3D Blog](http://blog.icare3d.org/) - Cyril Crassin [<i class="fa fa-twitter-square"></i>](https://twitter.com/Icare3D), research scientist at NVIDIA.
+* [John Ratcliff's Code Suppository](http://codesuppository.blogspot.com/) - John Ratcliff [<i class="fa fa-twitter-square"></i>](https://twitter.com/jratcliff), software engineer for NVIDIA.
+* [Ramblings in Valve Time](http://blogs.valvesoftware.com/abrash/) - Michael Abrash, Developer at Valve Software.
+* [Procedural World](http://procworld.blogspot.se/) - Miguel Cepero [<i class="fa fa-twitter-square"></i>](https://twitter.com/miguelcepero), developer and CEO at Voxel Farm.
+
+
 
 ## Development Studios
 * [bitsquid: development blog](http://bitsquid.blogspot.com/) - Bitsquid [<i class="fa fa-twitter-square"></i>](https://twitter.com/bitsquid), a Swedish game engine developer, founded by former lead engineers of Grin.
 * [Unigine crew](http://unigine.blogspot.com/) - Non-official blog of Unigine development crew [<i class="fa fa-twitter-square"></i>](https://twitter.com/Unigine).
 * [Molecular Musings](http://molecularmusings.wordpress.com/) - Development blog of Molecule Engine, run by Stefan Reinalter [<i class="fa fa-twitter-square"></i>](https://twitter.com/molecularmusing).
+* [NVIDIA Game & Graphics Development](https://developer.nvidia.com/blog?term=1) - Game & Graphics Development Blog on NVIDIA Developer Zone.
 
 ## Books and Academic Related
 * [Real-Time Rendering Blog](http://www.realtimerendering.com/blog/) - Blog for the book "Real-Time Rendering" by Tomas Akenine-Möller, Eric Haines and Naty Hoffman.
@@ -80,3 +88,5 @@ A collection of (mostly) rendering and game engine related blogs, in no specific
 
 ## Miscellaneous
 * [#AltDevBlog](http://www.altdevblogaday.com/) - Game dev blog of different authors with occasional rendering related posts, run by Harriet [<i class="fa fa-twitter-square"></i>](https://twitter.com/AltDevBlog) and Mike Acton [<i class="fa fa-twitter-square"></i>](https://twitter.com/mike_acton).
+* [Scali's OpenBlog™](http://scalibq.wordpress.com/) - Scali Bohemiq [<i class="fa fa-twitter-square"></i>](https://twitter.com/Scalibq).
+* [john-chapman-graphics](http://john-chapman-graphics.blogspot.com/) - John Chapman.
