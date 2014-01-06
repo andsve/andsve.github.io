@@ -6,6 +6,8 @@ toc: true
 ---
 A collection of (mostly) rendering and game engine related blogs, in no specific order. I used to have a couple of these as RSS feeds on a now defunct feed aggregator, and until I take the time to input them all into a working one, this post will have to do. Please let me know of you know of any swell blog that are missing!
 
+[Additions by Kyle Hayward.]
+
 ## Industry People
 * [Diary of a Graphics Programmer](http://diaryofagraphicsprogrammer.blogspot.com/) - Wolfgang Engel [<i class="fa fa-twitter-square"></i>](https://twitter.com/wolfgangengel), ShaderX and GPU Pro books editor legend, currently CEO of Confetti.
 * [Self Shadow](http://blog.selfshadow.com/) - Stephen Hill [<i class="fa fa-twitter-square"></i>](https://twitter.com/self_shadow), 3D Technical Lead at Ubisoft.
@@ -36,7 +38,17 @@ A collection of (mostly) rendering and game engine related blogs, in no specific
 * [Syntopia](http://blog.hvidtfeldts.net/) - Mikael Hvidtfeldt Christensen [<i class="fa fa-twitter-square"></i>](https://twitter.com/syntopiadk), Senior Scientific Developer at CLC bio.
 * [The Danger Zone](http://mynameismjp.wordpress.com/) - Matt Pettineo [<i class="fa fa-twitter-square"></i>](https://twitter.com/MyNameIsMJP), graphics programmer at Ready At Dawn Studios.
 * [The ryg Blog](http://fgiesen.wordpress.com/) - Fabian Giesen [<i class="fa fa-twitter-square"></i>](https://twitter.com/rygorous), programmer at RAD Game Tools and member of demogroup farbrausch.
-* [ZigguratVertigo's Hideout](http://colinbarrebrisebois.com/) - Colin Barré-Brisebois [<i class="fa fa-twitter-square"></i>](https://twitter.com/ZigguratVertigo), senior graphics programmer at Warner Brothers Games Montréal
+* [ZigguratVertigo's Hideout](http://colinbarrebrisebois.com/) - Colin Barré-Brisebois [<i class="fa fa-twitter-square"></i>](https://twitter.com/ZigguratVertigo), senior graphics programmer at Warner Brothers Games Montréal.
+* [I'm doing it wrong](http://imdoingitwrong.wordpress.com/) - Tom Madams, Software Engineer at Google.
+* [Jorge Jimenez Real-Time Graphics R&D](http://www.iryoku.com/blog) - Jorge Jimenez [<i class="fa fa-twitter-square"></i>](https://twitter.com/iryoku1), Real-Time Graphics Researcher at Activision Blizzard.
+* [Mikkelsen and 3D Graphics](http://mmikkelsen3d.blogspot.com/) - Morten S. Mikkelsen, principal programmer at Crystal Dynamics.
+* [Nathan Reed's Blog](http://www.reedbeta.com/blog/) - Nathan Reed [<i class="fa fa-twitter-square"></i>](https://twitter.com/reedbeta), graphics programmer at NVIDIA.
+* [Sebh's Blog](http://sebh-blog.blogspot.com/) - Sébastien Hillaire [<i class="fa fa-twitter-square"></i>](https://twitter.com/SebHillaire), Rendering Engineer at DICE.
+* [Steve McAuley Computer graphics in the real world](http://blog.stevemcauley.com/) - Steve McAuley [<i class="fa fa-twitter-square"></i>](https://twitter.com/stevemcauley), graphics programmer at Ubisoft Montreal.
+* [Rastergrid Blogosphere](http://rastergrid.com/blog/) - Daniel Rákos [<i class="fa fa-twitter-square"></i>](https://twitter.com/aqnuep), Member of Technical Staff at AMD.
+* [Martin Codes](http://martinecker.com/martincodes/) - Martin Ecker [<i class="fa fa-twitter-square"></i>](https://twitter.com/martin_ecker), principal graphics programmer at High Moon Studios.
+* [spuify](http://www.spuify.co.uk/) - Steven Tovey [<i class="fa fa-twitter-square"></i>](https://twitter.com/nonchaotic), endering APIs and Performance Tools at Sony Advanced Technology Group.
+* [Interplay of Light](http://interplayoflight.wordpress.com/) - Kostas Anagnostou [<i class="fa fa-twitter-square"></i>](https://twitter.com/thinkinggamer), senior graphics programmer at Radiant Worlds.
 
 ## Development Studios
 * [bitsquid: development blog](http://bitsquid.blogspot.com/) - Bitsquid [<i class="fa fa-twitter-square"></i>](https://twitter.com/bitsquid), a Swedish game engine developer, founded by former lead engineers of Grin.
