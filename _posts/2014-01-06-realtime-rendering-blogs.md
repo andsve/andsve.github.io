@@ -62,7 +62,8 @@ A collection of (mostly) rendering and game engine related blogs, in no specific
 * [Ramblings in Valve Time](http://blogs.valvesoftware.com/abrash/) - Michael Abrash, Developer at Valve Software.
 * [Procedural World](http://procworld.blogspot.se/) - Miguel Cepero [<i class="fa fa-twitter-square"></i>](https://twitter.com/miguelcepero), developer and CEO at Voxel Farm.
 * [Ray Tracey's blog](http://raytracey.blogspot.ch/) - Sam Lapere, Project Manager at OTOY New Zealand.
-* [I-Novae Studios](http://inovaekeith.blogspot.com/) - Keith Newton [<i class="fa fa-twitter-square"></i>](https://twitter.com/inovae_keith), CEO and Cofounder of I-Novae Studios.
+* [I-Novae Studios](http://inovaekeith.blogspot.com/) - Keith Newton [<i class="fa fa-twitter-square"></i>](https://twitter.com/inovae_keith), CEO at I-Novae Studios.
+* [Pixelnerve](http://www.pixelnerve.com/v/) - Victor Martins [<i class="fa fa-twitter-square"></i>](https://twitter.com/victamin), graphics programmer at Pixelnerve.
 
 ## Development Studios
 * [bitsquid: development blog](http://bitsquid.blogspot.com/) - Bitsquid [<i class="fa fa-twitter-square"></i>](https://twitter.com/bitsquid), a Swedish game engine developer, founded by former lead engineers of Grin.
