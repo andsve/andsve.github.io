@@ -90,3 +90,4 @@ A collection of (mostly) rendering and game engine related blogs, in no specific
 * [#AltDevBlog](http://www.altdevblogaday.com/) - Game dev blog of different authors with occasional rendering related posts, run by Harriet [<i class="fa fa-twitter-square"></i>](https://twitter.com/AltDevBlog) and Mike Acton [<i class="fa fa-twitter-square"></i>](https://twitter.com/mike_acton).
 * [Scali's OpenBlog™](http://scalibq.wordpress.com/) - Scali Bohemiq [<i class="fa fa-twitter-square"></i>](https://twitter.com/Scalibq).
 * [john-chapman-graphics](http://john-chapman-graphics.blogspot.com/) - John Chapman.
+* [FABIEN SANGLARD'S WEBSITE](http://fabiensanglard.net/) - Fabien Sanglard [<i class="fa fa-twitter-square"></i>](https://twitter.com/fabynou).
