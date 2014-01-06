@@ -54,6 +54,7 @@ A collection of (mostly) rendering and game engine related blogs, in no specific
 * [Simon's Tech Blog](http://simonstechblog.blogspot.co.uk/) - Simon Yeung, Senior Game Programmer at Insoft Development Limited.
 * [Blind Renderer](http://www.popekim.com/) - Pope Kim [<i class="fa fa-twitter-square"></i>](https://twitter.com/BlindRenderer), Senior Rendering Programmer.
 * [TomF's Tech Blog](http://home.comcast.net/~tom_forsyth/blog.wiki.html) - Tom Forsyth [<i class="fa fa-twitter-square"></i>](https://twitter.com/tom_forsyth), Software Architect at Oculus VR.
+* [Lia-Sae's Blog](http://lia-sae.net/en) - Amandine Coget [<i class="fa fa-twitter-square"></i>](https://twitter.com/LiaSae), associate software engineer at DICE.
 
 ## Development Studios
 * [bitsquid: development blog](http://bitsquid.blogspot.com/) - Bitsquid [<i class="fa fa-twitter-square"></i>](https://twitter.com/bitsquid), a Swedish game engine developer, founded by former lead engineers of Grin.
@@ -67,8 +68,6 @@ A collection of (mostly) rendering and game engine related blogs, in no specific
 * [Game Engine Architecture](http://gameenginebook.blogspot.com/) - Blog for the book "Game Engine Architecture" by Jason Gregory [<i class="fa fa-twitter-square"></i>](https://twitter.com/jqgregory), Lead Programmer at Naughty Dog.
 * [Voxelium](http://voxelium.wordpress.com/) - Attila Tamás Áfra [<i class="fa fa-twitter-square"></i>](https://twitter.com/attila_afra), PhD student in computer science at Budapest University of Technology and Economics.
 * [Pete Shirley's Graphics Blog](http://psgraphics.blogspot.co.uk/) - Pete Shirley, Adjunct Professor at University of Utah.
-* [Lia-Sae's Blog](http://lia-sae.net/en) - Amandine Coget [<i class="fa fa-twitter-square"></i>](https://twitter.com/LiaSae), associate software engineer at DICE.
-
 
 ## Indie Game Dev
 * [The Witness Development Blog](http://the-witness.net/news/) - Indie game being developed partly by Jonathan Blow [<i class="fa fa-twitter-square"></i>](https://twitter.com/Jonathan_Blow) of Braid fame.
