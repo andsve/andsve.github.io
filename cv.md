@@ -9,32 +9,25 @@ Sven Andersson
 I'm a dedicated professional with a Master's degree in _Computer Science: Algorithms, Languages and Logic_. Specializing in graphics programming and realtime rendering, with interests in design and user interfaces. Developing games, tools and fun stuff in my free time.<br>
 <br>
 tel.: +46 (0)73 680 86 29<br>
-email: contact@svenandersson.se
+email: jobs@svenandersson.se
 
 * ### Experience ###
-	*  2013 - 2014 -- **Software Developer** at Visualization R&D company [Mindary AB](http://www.mindary.se/).
-		* Co-founder together with a collection of smart people, backed by Meindbender AB and GU Holding.
-		* Part of a three person team developing a custom WebGL 3D engine utilizing Virtual Texturing and realtime raytraced reflections in the webbrowser.
-		* Designing and implementing the pre-process pipeline for the engine with custom built tools written in C++ and supported with Lua scripting.
+	*  2013 - 2014 -- **Software Developer** at Visualization R&D company [Mindary AB](http://www.mindary.se/).<br>
+		* {: .no-point} Part of a three person team developing a custom WebGL 3D engine with mega texture and realtime reflection support. Also working on the pre-process pipeline for the engine with custom built tools written in C++ and supported with Lua scripting.
+		* Further work on Meindbenders WebGL engine, performed optimizations on both Virtual Texturing and rendering passes.
+		* Designed and implemented the pre-process pipeline for the engine with custom built tools.
+		* Integrated tool chain into Autodesk Maya, along with custom previewing viewport.
 	*  2011 - 2013 -- **Software Developer** at Swedish animation studio [Meindbender AB](http://www.meindbender.com/).
-		* Continued work on WebGL engine that was conceived during master degree project.
-		* Setup and management of render farm.
+		* {: .no-point} Continued work on WebGL engine that was conceived during master degree project. Developed texture baking solution using texture reprojection.
 	* **Consulting**
 		* Burt Corp -- 2012, 1 Week - Graphical Interface tweaking and feedback.
 		* Agency9 -- 2012, 2 Weeks - Developing a WebGL related prototype.
-	* **Miscellaneous**
-		* Sample of personal projects
-			* 2D game and tool C++ framework scriptable in Lua
-			* Blog aware static site generator
-			* NES Emulator in C++
-			* Modular IRC bot written in Lua.
-		* Hackathons:
-			* Way Out West Hack 2013
-			* Way Out West Hack 2012
-			* Global Game Jam 2012
-			* Global Game Jam 2011
-			* Global Game Jam 2010
-			* Ludum Dare 2012
+	* **Personal Projects**
+		* [Panflute Hero](http://www.pixelfolders.se/2014/WOWHack-2013.html) -- A 'Guitar Hero' like game with custom built Panflute-controller. Flute hardware running a Raspberry Pi, sending signals to a OpenGL-game playing Spotify songs. Developed along with 4 other persons, submitted as our WayOutWest Hack 2013 entry.
+		* [Battlefy](http://www.pixelfolders.se/2012/WOWHack-2012.html) -- A multiplayer 3D astroids like game, using WebGL and integrated into the Spotify Desktop App. Developed along with 3 other persons, submitted as our WayOutWest Hack 2012 entry.
+		* Fabric/Toolbox -- Framework for easy 2D game and tool development. Written in C++, Lua using OpenGL for rendering.
+		* RedInk -- Node based image editor, with custom built GUI inspired by Blender. Based on Fabric, thus using OpenGL and written in Lua.
+		* Neeze -- NES Emulator written in C++ with interactive debugging via built-in Lua interpreter. 
 	* **Previous employment and work references by request.**
 
 
@@ -62,7 +55,7 @@ email: contact@svenandersson.se
 		* {: #middly } Networks
 			* [<i class="icon-linkedin-sign"> </i>linkedin.com/in/andsve](http://se.linkedin.com/in/andsve)
 			* [<i class="icon-twitter-sign"> </i>twitter.com/andsve](http://twitter.com/andsve)
-		* {: #righty } Misc.
+		* {: #righty } Design
 			* [<i class="icon-dribble"> </i>dribbble.com/andsve](http://dribbble.com/andsve)
 
 

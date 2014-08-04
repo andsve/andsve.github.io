@@ -90,7 +90,7 @@ div#content>ul {
 	margin: 0px 0px 0px 2cm;
 }
 
-ul, ol {
+ul, ol, .no-point {
     list-style: none;
 }
 
@@ -106,7 +106,7 @@ ul ul>li, ul ul, ul ol {
 
 ul ul ul, ul ul ol {
 	list-style: circle;
-	margin: 0px 50px;
+	margin: 0px 20px 0px 40px;
 }
 
 ul ul ul>li, ul ul ol>li {
@@ -193,5 +193,10 @@ ul ol a {
 
 #socialtable>ul>li a {
     vertical-align: middle;
+}
+
+.light {
+    font-size: 0.9em;
+    color: #777;
 }
 
