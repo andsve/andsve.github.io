@@ -138,14 +138,21 @@ ul ol a {
 	
 }
 
-#social {
+#socialtable {
+    margin: 0px;
+    padding: 0px;
+}
+
+#socialtable>ul {
     width: 100%;
     height: 100%;
+    margin: 0px;
+    padding: 0px;
     display: table;
     position: relative;
 }
 
-#social>li {
+#socialtable>ul>li {
     display: inline-block;
     /*position: absolute;*/
     padding: 0;
@@ -156,22 +163,22 @@ ul ol a {
 }
 
 /*
-#social>li#lefty
+#socialtable>li#lefty
 {
     left: 0%;
 }
 
-#social>li#middly
+#socialtable>li#middly
 {
     left: 32%;
 }
 
-#social>li#righty
+#socialtable>li#righty
 {
     left: 64%;
 }*/
 
-#social>li>ul {
+#socialtable>ul>li>ul {
     display: table;
     height: 100%;
     list-style: none;
@@ -179,12 +186,12 @@ ul ol a {
     margin: 0;
 }
 
-#social>li a>i {
+#socialtable>ul>li a>i {
     vertical-align: middle;
     font-size: 2em;
 }
 
-#social>li a {
+#socialtable>ul>li a {
     vertical-align: middle;
 }
 

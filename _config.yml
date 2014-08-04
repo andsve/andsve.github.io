@@ -1,6 +1,5 @@
-markdown: rdiscount
-permalink: /:year/:title.html
-pygments: true
 
-rdiscount:
-  extensions: [smart]
+permalink: /:year/:title.html
+highlighter: pygments
+
+
