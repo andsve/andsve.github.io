@@ -8,6 +8,7 @@ Sven Andersson
 * ### Bio ###
 I'm a dedicated professional with a Master's degree in _Computer Science: Algorithms, Languages and Logic_. Specializing in graphics programming and realtime rendering, with interests in design and user interfaces. Developing games, tools and fun stuff in my free time.<br>
 <br>
+SSN: 19860708-XXXX<br>
 tel.: +46 (0)73 680 86 29<br>
 email: jobs@svenandersson.se
 
