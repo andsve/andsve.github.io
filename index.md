@@ -4,9 +4,7 @@ title: Sven Andersson
 short: true
 toc: true
 ---
-I'm a 28 year old Swede, currently working on top secret WebGL projects at [Mindary](http://www.mindary.se/). I enjoy realtime rendering, UI and game development.
-
-I also **love to code**. 
+Swede, lover of realtime rendering, UI and game development. I'm currently working on cool stuff at [King](https://king.com).
 
 ## Projects
 
