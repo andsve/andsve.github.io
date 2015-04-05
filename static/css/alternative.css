@@ -17,7 +17,7 @@ body {
 
 a {
 	text-decoration: none;
-    color: #118;
+    color: #495A90;
     transition: all 100ms ease-in;
 }
 
@@ -26,7 +26,7 @@ a:hover {
 }
 
 header {
-	background-color: #118;
+	background-color: #495A901;
 	display: table;
 	width: 100%;
 }
@@ -50,7 +50,7 @@ header>div>nav>a {
 }
 
 header>div>nav>a:hover, header>div>nav>a.current {
-	color: #118;
+	color: #495A90;
 	background-color: #fff;
 }
 
@@ -244,7 +244,7 @@ footer a {
 
 footer a:hover {
 	color: #fff;
-	background-color: #118;
+	background-color: #495A90;
 }
 
 body.grand>footer a {
@@ -252,6 +252,6 @@ body.grand>footer a {
 }
 
 body.grand>footer a:hover {
-	color: #118;
+	color: #495A90;
 	background-color: #fff;
 }
