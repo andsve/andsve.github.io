@@ -11,15 +11,16 @@ Swede, lover of realtime rendering, UI and game development. I'm currently worki
 Recent projects can be found at my [GitHub](https://github.com/andsve) and [BitBucket](https://bitbucket.org/andsve) pages.
 
 ### Active projects
+* zengine -- Extreme lightweight game and tool framework, C based version of *fabric*. (2014-2015)
+* [sneeze/neeze](https://bitbucket.org/andsve/sneeze/) -- NES Emulator written in C++ with a Lua VM for live debugging. (2012-2015)
+	
+### Older projects
 * [Panflute Hero](http://www.pixelfolders.se/2014/WOWHack-2013.html) -- Our entry for [Way Out West Hackathon 2013](http://wowhack.challengepost.com/), custom built electronic pan flute hardware and game using Spotify. (2013)
 * [labrat](https://bitbucket.org/andsve/labrat/) -- Tool and game creation framework, combines the best parts and ideas of *toolbox* and *fabric*. (2013-2014)
-* [sneeze/neeze](https://bitbucket.org/andsve/sneeze/) -- NES Emulator written in C++ with a Lua VM for live debugging. (2012-2014)
 * [toolbox](https://bitbucket.org/andsve/toolbox/) -- Multiplatform tool creation framework. (2012-2014)
 * pxf.js -- Lightweight WebGL engine and JavaScript tools. (2012-2014)
 * [pushover-lua](https://github.com/andsve/pushover-lua) -- Simple [Pushover](https://pushover.net) API wrapper/snippet in Lua. (2012-2014)
 * [lurch](http://github.com/andsve/lurch) -- IRC bot written in Lua that uses public Git repos (i.e. GitHub Gists) as modules/plugins. (2010-2014)
-	
-### Older projects
 * fabric4 -- Tool and 2D/3D game development with lightweight Lua framework. *Discontinued in favor of Labrat.* (2012)
 * [luaspotify](https://github.com/andsve/luaspotify/) -- Lua bindings for [libspotify](https://developer.spotify.com/technologies/libspotify/). (2010-2012)
 * [Virtual Texturing with WebGL](http://publications.lib.chalmers.se/publication/155126) -- Our master thesis in _Computer Science: Algorithms, Languages and Logic_. (2011 - 2012)
