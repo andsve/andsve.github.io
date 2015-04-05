@@ -22,7 +22,7 @@ a {
 }
 
 a:hover {
-    color: #33b;
+    color: #62719E;
 }
 
 header {
@@ -113,7 +113,7 @@ div#posthead {
 
 body.grand>div#posthead {
 	padding: 100px;
-	background-color: #33b;
+	background-color: #62719E;
 	color: #fff;
 	text-align: center;
 }
@@ -157,7 +157,7 @@ body.read_mode>#toc>ul>li>a, #toc>ul:hover>li>a {
 }
 
 body.read_mode>#toc>ul>li>a.active, #toc>ul:hover>li>a.active, #toc>ul:hover>li>a:hover {
-	background-color: #33b;
+	background-color: #62719E;
 }
 
 
@@ -226,7 +226,7 @@ footer {
 }
 
 body.grand>footer {
-	background-color: #33b;
+	background-color: #62719E;
 	color: #fff;
 }
 
