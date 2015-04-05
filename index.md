@@ -4,7 +4,7 @@ title: Sven Andersson
 short: true
 toc: true
 ---
-Swede, lover of realtime rendering, UI and game development. I'm currently working on cool stuff at [King](https://king.com).
+Swede, lover of realtime rendering, UI and game development. I'm currently working on awesome engine tech at [King](https://king.com).
 
 ## Projects
 
