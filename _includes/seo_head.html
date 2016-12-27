@@ -1,10 +1,10 @@
 {% if page.description %}
   <meta content="{{ page.description }}" name="description">
-  <meta content="{{ page.description }}" name="twitter:card">
 {% else %}
   <meta content="{{ site.description }}" name="description">
-  <meta content="{{ site.description }}" name="twitter:card">
 {% endif %}
+
+<meta name="twitter:card" value="summary">
 
 <!-- Open Graph data -->
 <meta content="{{ site.title }}" property="og:site_name">
