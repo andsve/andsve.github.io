@@ -1,4 +1,9 @@
 
+# seo stuff
+url: "http://svenandersson.se"
+title: "Code and Projects by Sven Andersson"
+description: "Code, projects and articles related to realtime rendering, UI, game engine and game development."
+
 disqus_shortname: svenandersson-se
 permalink: /:year/:title.html
 markdown: kramdown

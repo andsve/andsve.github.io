@@ -2,7 +2,7 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <title>{{ page.title }}</title>
+        <title>svenandersson.se</title>
         <link rel="stylesheet" href="/static/css/normalize.css">
         <link rel="stylesheet" href="/static/css/third.css">
         <link rel="stylesheet" href="/static/css/syntax.css">
@@ -28,6 +28,7 @@
       <script src="/static/js/jquery-scrollspy.js"></script>
       <script src="/static/js/toc.js"></script>
       {% endif %}
+      {% include seo_head.html %}
     </head>
     <body{% if page.grand %} class = "grand"{% endif %}>
         <header>

@@ -1,6 +1,5 @@
 ---
 layout: three_front
-title: About + Projects
 short: true
 toc: true
 ---
