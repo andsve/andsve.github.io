@@ -1,5 +1,7 @@
 
+disqus_shortname: svenandersson-se
 permalink: /:year/:title.html
-highlighter: pygments
-
-
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge

@@ -1,0 +1,165 @@
+body {
+    background-color: #3f4144;
+    color: #b7b8bb;
+    /*background-color: #b7b8bb;*/
+    /*color: #000;*/
+    font-family: 'Rubik', sans-serif;
+    line-height: 1.3em;
+}
+
+a {
+    color: #ededed;
+    text-decoration: none;
+}
+
+ul {
+
+}
+
+ul > li {
+    margin: 0px 0px 10px 0px;
+}
+
+nav {
+    line-height: 48px;
+    background-color: #2d2e30;
+    padding: 0px 20px;
+}
+
+nav>a {
+    margin: 0px 10px 0px 0px;
+    font-size: 1em;
+    color: #fff;
+    padding: 2px 10px;
+    border-radius: 5px;
+    /*border: solid 1px #4f5154;*/
+    text-decoration: none;
+    font-family: 'Abel', sans-serif;
+}
+
+nav>a:hover, nav>a.current {
+    background-color: #4f5154;
+}
+
+nav>a.collapsed {
+    margin: 0px 0px 0px 0px;
+    /*border-radius: 0px;*/
+    /*border-left: none;*/
+}
+
+nav>a.collapsed-left {
+    /*border-radius: 5px 0px 0px 5px;*/
+    /*border: solid 1px #4f5154;*/
+}
+
+nav>a.collapsed-right {
+    /*border-radius: 0px 5px 5px 0px;*/
+}
+
+header h2 {
+    color: #ededed;
+    line-height: 64px;
+    font-size: 2em;
+    margin: 0px;
+    padding: 80px 20px 0px 20px;
+    font-family: 'Abel', sans-serif;
+    background-color: #2d2e30;
+}
+
+code {
+    font-family: 'Inconsolata', monospace;
+    border-radius: 5px;
+    padding: 3px 5px;
+    word-break: keep-all;
+    display: inline-block;
+    unicode-bidi: embed;
+    white-space: pre;
+    background-color: #2d2e30;
+}
+
+pre>code {
+    padding: 6px 10px;
+    min-width: 700px;
+}
+
+ul#posts {
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+}
+
+ul#posts > li {
+    margin: 0px 0px 10px 0px;
+}
+
+#wrap a {
+    font-weight: bold;
+}
+
+#wrap {
+    padding: 20px 20px 0px 20px;
+    font-weight: 100;
+}
+
+#content {
+    width: 700px;
+}
+
+#content h2, #content h3 {
+    margin: 40px 0 0 0;
+}
+
+#content .dimmed, #content .dimmed + ul {
+    color: #6e7079;
+}
+
+#content .dimmed + ul a {
+    color: #8c8e95;
+}
+
+#tags {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+#tags li {
+    margin: 0;
+    /*font-size: 0.8em;*/
+    /*border-radius: 5px;*/
+    /*background-color: #2d2e30;*/
+    /*padding: 3px 5px;*/
+    /*word-break: keep-all;*/
+    display: inline-block;
+    /*unicode-bidi: embed;*/
+}
+
+.shorted-ellipsis {
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    display: block;
+}
+
+#footer {
+    padding: 10px;
+    margin: 40px 0px;
+    /*border-top: solid 4px #2d2e30;*/
+    border-radius: 5px;
+    background-color: #2d2e30;
+    max-width: 700px;
+}
+
+#footer-nav {
+    margin: 20px 0px;
+}
+
+#footer-nav span {
+    display: inline-block;
+    max-width: 300px;
+}
+
+#footer-nav>span + span {
+    float: right;
+    text-align: right;
+}

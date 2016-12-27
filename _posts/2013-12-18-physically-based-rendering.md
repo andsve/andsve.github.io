@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: three_post
 title: Getting started with Physically Based Rendering/Shading
 toc: true
 ---

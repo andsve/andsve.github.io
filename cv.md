@@ -6,7 +6,7 @@ curr: aboutme
 Sven Andersson
 ==============
 * ### Bio ###
-I'm a 28 year old software professional with a Master's degree in _Computer Science: Algorithms, Languages and Logic_. Specializing in graphics programming and realtime rendering, with interests in design and user interfaces. Developing games, tools and fun stuff in my free time.<br>
+I'm a 30 year old software professional with a Master's degree in _Computer Science: Algorithms, Languages and Logic_. Specializing in graphics programming and realtime rendering, with interests in design and user interfaces. Developing games, tools and fun stuff in my free time.<br>
 <br>
 tel.: +46 (0)73 680 86 29<br>
 email: jobs@svenandersson.se
@@ -30,7 +30,7 @@ email: jobs@svenandersson.se
 		* [Battlefy](http://www.pixelfolders.se/2012/WOWHack-2012.html) -- A multiplayer 3D astroids like game, using WebGL and integrated into the Spotify Desktop App. Developed along with 3 other persons, submitted as our WayOutWest Hack 2012 entry.
 		* Fabric/Toolbox -- Framework for easy 2D game and tool development. Written in C++, Lua using OpenGL for rendering.
 		* RedInk -- Node based image editor, with custom built GUI inspired by Blender. Based on Fabric, thus using OpenGL and written in Lua.
-		* Neeze -- NES Emulator written in C++ with interactive debugging via built-in Lua interpreter. 
+		* Neeze -- NES Emulator written in C++ with interactive debugging via built-in Lua interpreter.
 	* **Previous employment and work references by request.**
 
 
@@ -51,9 +51,9 @@ email: jobs@svenandersson.se
 	* &nbsp;
 	* I enjoy, and have ease of, learning new technologies and languages. For further information in regards to my previous work or technical qualifications, please browse my BitBucket account.
 * ### Social ###
-	* {: #socialtable} 
+	* {: #socialtable}
 		* {: #lefty } Code
-			* [<i class="icon-bitbucket"> </i>bitbucket.org/andsve](http://bitbucket.org/andsve) 
+			* [<i class="icon-bitbucket"> </i>bitbucket.org/andsve](http://bitbucket.org/andsve)
 			* [<i class="icon-github"> </i>github.com/andsve](http://github.com/andsve)
 		* {: #middly } Networks
 			* [<i class="icon-linkedin-sign"> </i>linkedin.com/in/andsve](http://se.linkedin.com/in/andsve)

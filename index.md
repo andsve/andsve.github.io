@@ -1,20 +1,23 @@
 ---
-layout: frontpage
-title: Sven Andersson
+layout: three_front
+title: About + Projects
 short: true
 toc: true
 ---
-Swede, lover of realtime rendering, UI and game development. I'm currently working on awesome engine tech at [King](https://king.com).
+## Sven Andersson
+Swede, lover of realtime rendering, UI and game development. I'm currently working on awesome [game engine tech](http://www.defold.com/) at [King](https://king.com).
 
 ## Projects
+Recent (public) projects can be found at my [GitHub](https://github.com/andsve) and [BitBucket](https://bitbucket.org/andsve) pages.
 
-Recent projects can be found at my [GitHub](https://github.com/andsve) and [BitBucket](https://bitbucket.org/andsve) pages.
+### Active Projects
+* [DefAnimator](http://forum.defold.com/t/defanimator-visual-animator-for-defold/3772) -- Visual animation tool/prototype for Defold. (2016)
+* [defold-dialogs](https://github.com/andsve/defold-dialogs) -- Super simple Defold library for accessing native save and open dialogs (using LuaJit FFI). (2016)
+* [dirtylarry](https://github.com/andsve/dirtylarry) -- A quick and dirty GUI library for Defold. (2016)
 
-### Active projects
+<h3 class="dimmed">Older Projects</h3>
 * zengine -- Extreme lightweight game and tool framework, C based version of *fabric*. (2014-2015)
 * [sneeze/neeze](https://bitbucket.org/andsve/sneeze/) -- NES Emulator written in C++ with a Lua VM for live debugging. (2012-2015)
-	
-### Older projects
 * [Panflute Hero](http://www.pixelfolders.se/2014/WOWHack-2013.html) -- Our entry for [Way Out West Hackathon 2013](http://wowhack.challengepost.com/), custom built electronic pan flute hardware and game using Spotify. (2013)
 * [labrat](https://bitbucket.org/andsve/labrat/) -- Tool and game creation framework, combines the best parts and ideas of *toolbox* and *fabric*. (2013-2014)
 * [toolbox](https://bitbucket.org/andsve/toolbox/) -- Multiplatform tool creation framework. (2012-2014)
@@ -35,6 +38,3 @@ Recent projects can be found at my [GitHub](https://github.com/andsve) and [BitB
 * [Project Lloyd](http://lloyd.codeplex.com/) -- Racing game developed in a group of six, written in C# and using Microsoft XNA. Project part of our bachelor thesis. (2009)
 * [CropShot](http://content.svenandersson.se/cropshot/) -- A simple Windows utility for taking "cropped" screenshot, i.e. there is no need to crop the screenshot in an image editor afterwards. (2008)
 
-## Contact
-* tel.: +46 (0)73 680 86 29
-* email: contact@svenandersson.se
