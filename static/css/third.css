@@ -163,3 +163,8 @@ ul#posts > li {
     float: right;
     text-align: right;
 }
+
+/* comment stuff */
+#disqus_thread {
+    max-width: 720px;
+}
