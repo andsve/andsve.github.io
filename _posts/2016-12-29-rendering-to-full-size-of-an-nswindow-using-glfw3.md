@@ -4,15 +4,15 @@ title: Rendering to full size of an NSWindow using GLFW3
 comments: true
 tags: osx macos glfw cocoa objective-c method-swizzling
 ---
-In one of my projects I wanted to render (using OpenGL) to the full area of a NSWindow, meaning even the title bar. This would enable me to create a more custom look, for example similar to how Spotify looks;
+In one of my projects I wanted to render (using OpenGL) to the full area of a window, including the title bar. This would enable me to create a more custom look for my tool, similar to how Spotify looks;
 
 ![Spotify having a custom window color.](/static/posts/2016-12-29-spotify.png "Spotify having a custom window color.")
 
-After some digging around it seemed possible by setting `titlebarAppearsTransparent` and `backgroundColor` properties for the `NSWindow`. Easy stuff if you have full control of your window code, but if you are using a third party windowing library, such as GLFW, you need to do some more work.
+After digging around it seemed possible by setting `titlebarAppearsTransparent` and `backgroundColor` properties for the `NSWindow`. Easy stuff if you have full control of your window code, but if you are using a third party windowing library, such as GLFW, you need to do some more work.
 
-If you also want to be able to move the window draging the title bar, it gets even trickier. But thanks to something called [method swizzling](http://nshipster.com/method-swizzling/) it's possible to solve it fully in runtime, without any code changes!
+If you also want to be able to move the window by draging the title bar, it gets even trickier. But thanks to something called [method swizzling](http://nshipster.com/method-swizzling/) it's possible to solve it in runtime, without any code changes!
 
-Below is what I ended up using for GLFW; just call `HackFullContentView(GLFWwindow* window)` once for every GLFW window you open. It will set the needed properties for the `NSWindow`, but also override/swizzle the `mouseDownCanMoveWindow` property getter (otherwise read only) of the `GLFWContentView` class.
+Below is what I ended up using for GLFW; just call `HackFullContentView(GLFWwindow* window)` once for every GLFW window you open. It will set the needed properties for the `NSWindow`, but also override/swizzle the `mouseDownCanMoveWindow` property getter (otherwise a read only property) of the `GLFWContentView` class.
 
 {% highlight objc %}
 #include <GLFW/glfw3.h>
