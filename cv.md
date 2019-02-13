@@ -48,9 +48,9 @@ email: jobs@svenandersson.se
 
 * ### Technical ###
 	* **Languages**
-		* **Advanced** C, C++, Lua, GLSL, Python
-		* **Intermediate** HTML+CSS+JS
-		* **Beginner** Clojure, Rust, Ruby
+		* **Advanced:** C, C++, Lua, GLSL, Python
+		* **Intermediate:** HTML+CSS+JS
+		* **Beginner:** Clojure, Rust, Ruby
 	* **Technologies:** OpenGL, WebGL, sockets, WebSockets, multithreading, concurrency
 	* **Software:** Git, Mercurial, Subversion, Visual Studio, macOS, Windows, Linux, Maya, Blender, Photoshop, JIRA Agile
 	* &nbsp;
