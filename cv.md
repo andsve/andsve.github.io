@@ -6,13 +6,13 @@ curr: aboutme
 Sven Andersson
 ==============
 * ### Bio ###
-I'm a 32 year old software professional with a Master's degree in _Computer Science: Algorithms, Languages and Logic_. Specializing in graphics programming and realtime rendering, with interests in design and user interfaces. Developing games, tools and fun stuff in my free time.<br>
+I'm a software professional with a Master's degree in _Computer Science: Algorithms, Languages and Logic_. My main focus is game engine development, graphics and realtime rendering. I also have a big interests in design and user interfaces. Outside of work I spend much of my free time developing games and tools.  <br>
 <br>
 tel.: +46 (0)73 680 86 29<br>
 email: jobs@svenandersson.se
 
 * ### Experience ###
-	*  2015 -- **Developer** at [King](http://king.com).<br>
+	*  2015 -- **Senior Developer** on [Defold](https://www.defold.com/) engine at [King](http://king.com).<br>
 	*  2014 - 2015 -- **Software Developer** at [EON Development AB](http://www.eonreality.com/).<br>
 		* {: .no-point} Part of a two person team porting an inhouse developed 3D/simulation engine to WebGL using Emscripten.
 	*  2013 - 2014 -- **Software Developer** at Visualization R&D company [Mindary AB](http://www.mindary.se/).<br>
