@@ -13,7 +13,7 @@ email: jobs@svenandersson.se
 
 * ### Experience ###
 	*  2015 -- **Senior Developer** on [Defold](https://www.defold.com/) engine at [King](http://king.com).<br>
-		* {: .no-point} Working in a large (~20p) team for the Defold product. Part of the core engine team, made up of 5 people, developing the runtime part of the Defold product.
+		* {: .no-point} Working in a large (~20p) team for the Defold product. Part of the core engine group, made up of 5 people, developing the runtime part of the Defold product.
 		* Designing, developing and implementing new features for both desktop and mobile versions of the runtime.
 	*  2014 - 2015 -- **Software Developer** at [EON Development AB](http://www.eonreality.com/).<br>
 		* {: .no-point} Part of a two person team porting an inhouse developed 3D/simulation engine to WebGL using Emscripten.
