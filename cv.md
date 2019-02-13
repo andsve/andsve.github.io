@@ -42,12 +42,12 @@ email: jobs@svenandersson.se
 		* Bachelor's degree in _Computer Science_
 
 * ### Future ###
-	I will always want to work with cutting edge technology, making visions come to life. I see myself in a Senior Developer role within 3 years, in the domain of realtime visualization. Within 5 years I want to be the person responsible for pushing the rest of the team forward, probably as a team lead or product owner.
+	I want to work with cutting edge technology, making visions come to life. Within 3 years I want to be the person responsible for pushing the rest of the team forward, while still maintaining the technical know-how and expertice.
 
 * ### Technical ###
-	* **Languages:** C, C++, Lua, JavaScript, GLSL, Python, Ruby, HTML+CSS, LaTeX
-	* **Technologies:** OpenGL, WebGL, sockets, WebSockets, multithreading, concurrency, wxWidgets
-	* **Software:** Git, Mercurial, Subversion, Visual Studio, Windows, Linux, OS X, Maya, Photoshop, JIRA Agile
+	* **Languages:** C, C++, Lua, Clojure, Rust, GLSL, Python, Ruby, HTML+CSS+JS
+	* **Technologies:** OpenGL, WebGL, sockets, WebSockets, multithreading, concurrency
+	* **Software:** Git, Mercurial, Subversion, Visual Studio, macOS, Windows, Linux, Maya, Blender, Photoshop, JIRA Agile
 	* &nbsp;
 	* I enjoy, and have ease of, learning new technologies and languages. For further information in regards to my previous work or technical qualifications, please browse my BitBucket account.
 * ### Social ###
