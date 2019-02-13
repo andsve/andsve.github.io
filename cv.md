@@ -47,7 +47,10 @@ email: jobs@svenandersson.se
 	I want to work with cutting edge technology, making visions come to life. Within 3 years I want to be the person responsible for pushing the rest of the team forward, while still maintaining the technical know-how and expertice.
 
 * ### Technical ###
-	* **Languages:** C, C++, Lua, Clojure, Rust, GLSL, Python, Ruby, HTML+CSS+JS
+	* **Languages**
+		* **Advanced** C, C++, Lua, GLSL, Python
+		* **Intermediate** HTML+CSS+JS
+		* **Beginner** Clojure, Rust, Ruby
 	* **Technologies:** OpenGL, WebGL, sockets, WebSockets, multithreading, concurrency
 	* **Software:** Git, Mercurial, Subversion, Visual Studio, macOS, Windows, Linux, Maya, Blender, Photoshop, JIRA Agile
 	* &nbsp;
