@@ -36,13 +36,3 @@ Recent (public) projects can be found at my [GitHub](https://github.com/andsve) 
 * [PushBox](http://md5.se/cg/pb/PushBoxWindows_noinstall.zip) ([video](http://md5.se/cg/pb/pushbox_02.ogv))<br>An unfinished action puzzle game (somewhat a cross between Tetris and Puyo Puyo), written in C# and using Microsoft XNA. (2009)
 * [Project Lloyd](http://lloyd.codeplex.com/)<br>Racing game developed in a group of six, written in C# and using Microsoft XNA. Project part of our bachelor thesis. (2009)
 * [CropShot](http://content.svenandersson.se/cropshot/)<br>A simple Windows utility for taking "cropped" screenshot, i.e. there is no need to crop the screenshot in an image editor afterwards. (2008)
-
-
-[dummy222222](http://www.google.com)
-
-<a href="se.svenandersson.iac_test://asdasd">test</a>
-
-<a href="iac_test://asdasd">test</a>
-
-
-
