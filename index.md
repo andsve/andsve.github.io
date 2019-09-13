@@ -38,12 +38,11 @@ Recent (public) projects can be found at my [GitHub](https://github.com/andsve) 
 * [CropShot](http://content.svenandersson.se/cropshot/)<br>A simple Windows utility for taking "cropped" screenshot, i.e. there is no need to crop the screenshot in an image editor afterwards. (2008)
 
 
-[dummy](http://www.google.com)
+[dummy222222](http://www.google.com)
 
-[test](se.svenandersson.iac_test://asdasd)
+<a href="se.svenandersson.iac_test://asdasd">test</a>
 
-
-[test2](iac_test://asdasd)
+<a href="iac_test://asdasd">test</a>
 
 
 
