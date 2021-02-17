@@ -6,14 +6,16 @@ curr: aboutme
 Sven Andersson
 ==============
 * ### Bio ###
-I'm a software professional with a Master's degree in _Computer Science: Algorithms, Languages and Logic_. My main focus is game engine development, graphics and realtime rendering. I also have a big interests in design and user interfaces. Outside of work I spend much of my free time developing games and tools.  <br>
+I'm a software professional with a Master's degree in _Computer Science: Algorithms, Languages and Logic_. My main focus is game engine development, graphics and realtime rendering. I'm interested in design and user interfaces. Outside of work I spend much of my free time developing games and tools.  <br>
 <br>
 tel.: +46 (0)73 680 86 29<br>
 email: jobs@svenandersson.se
 
 * ### Experience ###
-	*  2015 -- **Senior Developer** on [Defold](https://www.defold.com/) engine at [King](http://king.com).<br>
-		* {: .no-point} Developing a inhouse game engine called Defold, that was released free of charge outside the company as well.
+	*  2019 -- **Senior Developer** on [Crash Bandicoot: On the Run!](https://www.king.com/game/crashontherun) at [King](http://king.com).<br>
+		* {: .no-point} Developing gameplay code for the runner part of the game, and tools used by the artists and level designers.
+	*  2015 - 2019 -- **Senior Developer** on [Defold](https://www.defold.com/) engine at [King](http://king.com).<br>
+		* {: .no-point} Developing a inhouse game engine Defold; released free of charge 2015, and open sourced 2019.
 		* {: .no-point} Working in a large (~20p) team. Part of the core engine group, made up of 5 people, developing the runtime part of the Defold product.
 		* Designing, developing and implementing new features for both desktop and mobile versions of the runtime.
 	*  2014 - 2015 -- **Software Developer** at [EON Development AB](http://www.eonreality.com/).<br>

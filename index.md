@@ -4,19 +4,20 @@ short: true
 toc: true
 ---
 ## Sven Andersson
-Swede, lover of realtime rendering, UI and game development. I'm currently working on awesome [game engine tech](http://www.defold.com/) at [King](https://king.com).
+Swede, lover of realtime rendering, UI and game development.
 
-## Projects
-Recent (public) projects can be found at my [GitHub](https://github.com/andsve) and [BitBucket](https://bitbucket.org/andsve) pages.
+Currently working as a game developer on [Crash Bandicoot: On the Run!](https://www.king.com/game/crashontherun) at [King](https://king.com), previously engine developer on [Defold](http://www.defold.com/).
+
+## Personal Projects
 
 ### Active Projects
-* [DefAnimator](http://forum.defold.com/t/defanimator-visual-animator-for-defold/3772)<br>Visual animation tool/prototype for Defold. (2016)
-* [defold-dialogs](https://github.com/andsve/defold-dialogs)<br>Super simple Defold library for accessing native save and open dialogs (using LuaJit FFI). (2016)
-* [dirtylarry](https://github.com/andsve/dirtylarry)<br>A quick and dirty GUI library for Defold. (2016)
+* [sneeze/neeze](https://github.com/andsve/neeze/)<br>NES Emulator with debugger, written in C. (2012-2021)
 
 <h3 class="dimmed">Older Projects</h3>
+* [dirtylarry](https://github.com/andsve/dirtylarry)<br>A quick and dirty GUI library for Defold. (2016)
+* [defold-dialogs](https://github.com/andsve/defold-dialogs)<br>Super simple Defold library for accessing native save and open dialogs (using LuaJit FFI). (2016)
+* [DefAnimator](http://forum.defold.com/t/defanimator-visual-animator-for-defold/3772)<br>Visual animation tool/prototype for Defold. (2016)
 * zengine<br>Extreme lightweight game and tool framework, C based version of *fabric*. (2014-2015)
-* [sneeze/neeze](https://bitbucket.org/andsve/sneeze/)<br>NES Emulator written in C++ with a Lua VM for live debugging. (2012-2015)
 * [Panflute Hero](http://www.pixelfolders.se/2014/WOWHack-2013.html)<br>Our entry for [Way Out West Hackathon 2013](http://wowhack.challengepost.com/), custom built electronic pan flute hardware and game using Spotify. (2013)
 * [labrat](https://bitbucket.org/andsve/labrat/)<br>Tool and game creation framework, combines the best parts and ideas of *toolbox* and *fabric*. (2013-2014)
 * [toolbox](https://bitbucket.org/andsve/toolbox/)<br>Multiplatform tool creation framework. (2012-2014)

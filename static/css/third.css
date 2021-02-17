@@ -4,7 +4,9 @@ body {
     /*background-color: #b7b8bb;*/
     /*color: #000;*/
     font-family: 'Rubik', sans-serif;
-    line-height: 1.3em;
+    /*font-family: 'Iosevka Web', sans-serif;*/
+    /*font-family: 'Inter', sans-serif;*/
+    line-height: 1.4em;
 }
 
 a {
@@ -99,7 +101,16 @@ ul#posts > li {
 }
 
 #wrap a {
-    font-weight: bold;
+    font-weight: 400;
+    display: inline-block;
+    padding: 1px 3px;
+    margin: -1px -3px;
+    border-radius: 3px;
+}
+
+#wrap a:hover {
+    font-weight: 400;
+    background-color: #2d2e30;
 }
 
 #wrap {
