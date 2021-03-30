@@ -20,7 +20,7 @@ email: jobs@svenandersson.se
 		* Designing, developing and implementing new features for both desktop and mobile versions of the runtime.
 	*  2014 - 2015 -- **Software Developer** at [EON Development AB](http://www.eonreality.com/).<br>
 		* {: .no-point} Part of a two person team porting an inhouse developed 3D/simulation engine to WebGL using Emscripten.
-	*  2013 - 2014 -- **Software Developer** at Visualization R&D company [Mindary AB](http://www.mindary.se/).<br>
+	*  2013 - 2014 -- **Software Developer** at Visualization R&D company Mindary AB.<br>
 		* {: .no-point} Part of a three person team developing a custom WebGL 3D engine with mega texture and realtime reflection support. Also working on the pre-process pipeline for the engine with custom built tools written in C++ and supported with Lua scripting.
 		* Further work on Meindbenders WebGL engine, performed optimizations on both Virtual Texturing and rendering passes.
 		* Designed and implemented the pre-process pipeline for the engine with custom built tools.
