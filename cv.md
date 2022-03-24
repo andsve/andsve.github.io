@@ -12,7 +12,9 @@ tel.: +46 (0)73 680 86 29<br>
 email: jobs@svenandersson.se
 
 * ### Experience ###
-	*  2019 -- **Senior Developer** on [Crash Bandicoot: On the Run!](https://www.king.com/game/crashontherun) at [King](http://king.com).<br>
+	*  2022 -- **Software Engineer** at [Figma](https://www.figma.com).<br>
+		* {: .no-point} Working on unannounced stuff.
+	*  2019 - 2022 -- **Senior Developer** on [Crash Bandicoot: On the Run!](https://www.king.com/game/crashontherun) at [King](http://king.com).<br>
 		* {: .no-point} Developing gameplay code for the runner part of the game, and tools used by the artists and level designers.
 	*  2015 - 2019 -- **Senior Developer** on [Defold](https://www.defold.com/) engine at [King](http://king.com).<br>
 		* {: .no-point} Developing a inhouse game engine Defold; released free of charge 2015, and open sourced 2019.

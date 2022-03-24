@@ -6,7 +6,7 @@ toc: true
 ## Sven Andersson
 Swede, lover of realtime rendering, UI and game development.
 
-Currently working as a game developer on [Crash Bandicoot: On the Run!](https://www.king.com/game/crashontherun) at [King](https://king.com), previously engine developer on [Defold](http://www.defold.com/).
+Software Engineer at [Figma](https://www.figma.com/). Previously game ([Crash Bandicoot: On the Run!](https://www.king.com/game/crashontherun)) and game engine ([Defold](http://www.defold.com/)) developer at [King](https://king.com).
 
 ## Personal Projects
 
