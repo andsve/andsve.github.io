@@ -11,7 +11,8 @@ Software Engineer at [Figma](https://www.figma.com/). Previously game ([Crash Ba
 ## Personal Projects
 
 ### Active Projects
-* [sneeze/neeze](https://github.com/andsve/neeze/)<br>NES Emulator with debugger, written in C. (2012-2021)
+* [sneeze/neeze](https://github.com/andsve/neeze/)<br>NES Emulator with debugger, written in C. (2012-2022)
+* redink<br>Super simple raster image editor, written in C++. (2011-2022)
 
 <h3 class="dimmed">Older Projects</h3>
 * [dirtylarry](https://github.com/andsve/dirtylarry)<br>A quick and dirty GUI library for Defold. (2016)
